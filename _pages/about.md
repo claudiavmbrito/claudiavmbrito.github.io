@@ -19,7 +19,7 @@ My current focus is on privacy-preserving and distributed machine learning syste
 Education
 ===
 **Ph.D --- Doctoral Program in Computer Science**    
-Thesis: *"owards a Privacy-Preserving Distributed Machine Learning Framework."*    
+Thesis: *"Towards a Privacy-Preserving Distributed Machine Learning Framework."*    
 Supervised by Prof. João Paulo and Prof. Pedro Ferreira.    
 University of Minho.    
 2018 --- ongoing
