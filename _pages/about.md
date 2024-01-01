@@ -16,7 +16,7 @@ My current focus is on privacy-preserving and distributed machine learning syste
 ***
 
 
-Education
+### Education
 ===
 **Ph.D --- Doctoral Program in Computer Science**    
 Thesis: *"Towards a Privacy-Preserving Distributed Machine Learning Framework."*    
@@ -32,7 +32,7 @@ University of Minho.
 
 ***
 
-Experience
+### Experience
 ===
 **Researcher (PhD student), HASLab INESC TEC.**    
 Research in distributed and privacy-preserving machine learning.    
