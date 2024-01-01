@@ -83,7 +83,7 @@ author:
   name             : "Cláudia Brito"
   avatar           : "https://claudiavmbrito.github.io/images/cvmbrito.jpg"
   bio              : "PhD Student and Researcher at HASLab, INESC TEC and University of Minho. Invited assistant professor at University of Minho."
-  location         : "Rua da Universidade, Gualtar (4710-057), Braga, Portugal"
+  location         : #"Rua da Universidade,  Gualtar (4710-057), Braga, Portugal"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ertclDsAAAAJ&hl"
@@ -181,6 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  service:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -222,6 +225,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _service
+  - scope:
+      path: ""
+      type: service
     values:
       layout: single
       author_profile: true
@@ -309,3 +321,11 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+
+# # Analytics
+# analytics:
+#   provider               : "google" # false (default), "google", "google-universal", "custom"
+#   google:
+#     tracking_id          : UA-172409192-1
