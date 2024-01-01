@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "claudiavmbrito"
+title                    : "claudiabrito"
 title_separator          : "-"
 name                     : &name "Cláudia Brito"
 description              : &description "personal description"
@@ -83,11 +83,11 @@ author:
   name             : "Cláudia Brito"
   avatar           : "https://claudiavmbrito.github.io/images/cvmbrito.jpg"
   bio              : "PhD Student and Researcher at HASLab, INESC TEC and University of Minho. Invited assistant professor at University of Minho."
-  location         : #"Rua da Universidade,  Gualtar (4710-057), Braga, Portugal"
+  location         : "Universidade do Minho, Portugal"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ertclDsAAAAJ&hl"
-  email            : "claudia.v.brito at inesctec dot pt"
+  email            : "claudia.v.brito@inesctec.pt"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -181,15 +181,15 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  service:
-    output: true
-    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
+  tryouts:
+    output: true
+    permalink: /tryouts/:path/
 
 
 # Defaults
@@ -212,6 +212,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _tryouts
+  - scope:
+      path: ""
+      type: tryouts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _teaching
   - scope:
       path: ""
@@ -225,6 +234,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
     values:
       layout: single
       author_profile: true
@@ -276,6 +294,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-imagemagick
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
@@ -323,9 +342,75 @@ compress_html:
     envs: development
 
 
+# -----------------------------------------------------------------------------
+# Optional Features
+# -----------------------------------------------------------------------------
 
-# # Analytics
-# analytics:
-#   provider               : "google" # false (default), "google", "google-universal", "custom"
-#   google:
-#     tracking_id          : UA-172409192-1
+enable_tryout_categories:  true   # enables categorization of projects into
+display_categories: ['blockquotes']
+enable_masonry:             true   # enables automatic project cards arrangement
+
+
+
+# -----------------------------------------------------------------------------
+# Responsive WebP Images
+# -----------------------------------------------------------------------------
+
+imagemagick:
+  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  widths:
+    - 480
+    - 800
+    - 1400
+  input_directories:
+    - assets/img/
+  input_formats:
+    - ".jpg"
+    - ".jpeg"
+    - ".png"
+    - ".tiff"
+  output_formats:
+    webp: "-resize 800x"
+
+# -----------------------------------------------------------------------------
+# Library versions
+# -----------------------------------------------------------------------------
+
+bootstrap-table:
+  version: "1.22.1"
+jquery:
+  version: "3.6.0"
+  integrity: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+mathjax:
+  version: "3.2.0"
+masonry:
+  version: "4.2.2"
+  integrity: "sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI="
+mdb:
+  version: "4.20.0"
+  integrity:
+    css: "sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw="
+    js: "sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA="
+medium_zoom:
+  version: "1.0.8"
+  integrity: "sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8="
+
+# Sitemap settings
+# defaults:
+#   - scope:
+#       path: "assets"
+#     values:
+#       sitemap: false
+
+# sass:
+#   style: compressed
+
+# -----------------------------------------------------------------------------
+# Layout
+# -----------------------------------------------------------------------------
+
+# navbar_fixed: true
+# footer_fixed: true
+
+# Dimensions
+max_width: 800px
