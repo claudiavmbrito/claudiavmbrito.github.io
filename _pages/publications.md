@@ -109,7 +109,7 @@ Alves J., Soares B., **Brito C.**, Sousa A.
 </a>
 <!-- Doi -->
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-16474-3_17">
-  <img src="https://img.shields.io/badge/doi-10.1007%2F978-3-031-16474-3_17-lightgrey?style=plastic" />
+  <img src="https://img.shields.io/badge/doi-lightgrey?style=plastic" />
 </a>
 
 
@@ -212,5 +212,5 @@ Peixoto C., **Brito C.**, Fontainhas M., Peixoto H., Machado J., Abelha A.
 </a>
 <!-- Doi -->
 <a href="https://ieeexplore.ieee.org/document/8113790">
-  <img src="https://img.shields.io/badge/doi-10.1109%2FFiCloudW.2017.91-lightgrey?style=plastic" />
+  <img src="https://img.shields.io/badge/doi-lightgrey?style=plastic" />
 </a>
