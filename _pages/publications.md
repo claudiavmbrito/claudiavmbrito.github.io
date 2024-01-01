@@ -7,9 +7,10 @@ author_profile: true
 
 ### 2023
 
-Privacy-Preserving Machine Learning on Apache Spark. 
+**Privacy-Preserving Machine Learning on Apache Spark.**
 **Brito, C.**, Ferreira, P., Portela, B., Oliveira, R., Paulo, J. 
 *IEEE Access.*
+
 <!-- PDF -->
 <a href="https://claudiavmbrito.github.io/files/soteria/ext/Privacy-Preserving_Machine_Learning_on_Apache_Spark.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -27,6 +28,7 @@ Privacy-Preserving Machine Learning on Apache Spark.
 **Generative Adversarial Networks in Healthcare: A Case Study on MRI Image Generation**
 Cepa, B., **Brito, C.**, Sousa, A.
 *2023 IEEE 7th Portuguese Meeting on Bioengineering (ENBENG)*
+
 <!-- PDF -->
 <a href="https://claudiavmbrito.github.io/files/biomed/generative/P-OOY-NRC.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -41,9 +43,10 @@ Cepa, B., **Brito, C.**, Sousa, A.
 </a>
 
 
-SOTERIA: Preserving Privacy in Distributed Machine Learning. 
+**SOTERIA: Preserving Privacy in Distributed Machine Learning.**
 **Brito, C.**, Ferreira, P., Portela, B., Oliveira, R., Paulo, J. 
 *Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing.*
+
 <!-- PDF -->
 <a href="https://claudiavmbrito.github.io/files/soteria/P-00Y-N65.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -61,6 +64,7 @@ SOTERIA: Preserving Privacy in Distributed Machine Learning.
 **Emission-Aware Federated Learning: A Case Study on Transportation and Carbon Footprint**
 **Brito C.**, Pina N., Vitorino R., Cunha I., Paulo J.
 *EuroSys 2023, Poster Session.*
+
 <!-- PDF -->
 <a href="https://claudiavmbrito.github.io/files/eurosys/eurosys23posters-final22.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -74,6 +78,7 @@ SOTERIA: Preserving Privacy in Distributed Machine Learning.
 **Promoting sustainable and personalised travel behaviours while preserving data privacy**
 Pina, N., **Brito, C.**, Vitorino, R., Cunha, I.
 *Transportation Research Procedia*
+
 <!-- PDF -->
 <a href="https://claudiavmbrito.github.io/files/internship/FLtransportation.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -93,6 +98,7 @@ Pina, N., **Brito, C.**, Vitorino, R., Cunha, I.
 **Cloud-Based Privacy-Preserving Medical Imaging System Using Machine Learning Tools**
 Alves J., Soares B., **Brito C.**, Sousa A.
 *Progress in Artificial Intelligence. EPIA 2022.*
+
 <!-- PDF -->
 <a href="https://claudiavmbrito.github.io/files/biomed/mcc/EPIA_2022_PAPER.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -113,6 +119,7 @@ Alves J., Soares B., **Brito C.**, Sousa A.
 **The Case for Storage Optimization Decoupling in Deep Learning Frameworks**    
 Ricardo Macedo, Cláudia Correia, Marco Dantas, **Cláudia Brito**, Weijia Xu, Yusuke Tanimura, Jason Haga, João Paulo.    
 *IEEE International Conference in Cluster Computing @ 1st Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, 2021*    
+
 <!-- PDF -->
 <a href="https://claudiavmbrito.github.io/files/prisma/prisma-rexio21.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -136,6 +143,7 @@ Ricardo Macedo, Cláudia Correia, Marco Dantas, **Cláudia Brito**, Weijia Xu, Y
 **Electrocardiogram Beat-Classification Based on a ResNet Network.**
 **Brito C.**, Machado A., Sousa A.
 *MEDINFO 2019: Health and Wellbeing e-Networks for All*
+
 <!-- PDF -->
 <a href="https://claudiavmbrito.github.io/files/biomed/ecg/SHTI-264-SHTI190182.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -153,6 +161,7 @@ Ricardo Macedo, Cláudia Correia, Marco Dantas, **Cláudia Brito**, Weijia Xu, Y
 **A data mining approach to classify serum creatinine values in patients undergoing continuous ambulatory peritoneal dialysis**
 **Brito C.**, Esteves M., Peixoto H., Abelha A., Machado J.
 *Wireless Networks*
+
 <!-- PDF -->
 <a href="https://claudiavmbrito.github.io/files/biomed/mining/s11276-018-01905-4.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -172,6 +181,7 @@ Ricardo Macedo, Cláudia Correia, Marco Dantas, **Cláudia Brito**, Weijia Xu, Y
 **Assessment of an IoT Platform for Data Collection and Analysis for Medical Sensors**
 Rei J., **Brito C.**, Sousa A.
 *IEEE 4th International Conference on Collaboration and Internet Computing (CIC) (2018) 405-411*
+
 <!-- PDF -->
 <a href="https://claudiavmbrito.github.io/files/biomed/iot/P-00Q-3F2.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -191,6 +201,7 @@ Rei J., **Brito C.**, Sousa A.
 **Continuous ambulatory peritoneal dialysis: Business intelligence applied to patient monitoring: CAPD study and statistics**
 Peixoto C., **Brito C.**, Fontainhas M., Peixoto H., Machado J., Abelha A.
 *Proceedings - 2017 5th International Conference on Future Internet of Things and Cloud Workshops, W-FiCloud 2017 (2017) 2017-January 178-185*
+
 <!-- PDF -->
 <a href="https://claudiavmbrito.github.io/files/biomed/capd/08113790.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
