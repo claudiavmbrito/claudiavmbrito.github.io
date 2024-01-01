@@ -196,7 +196,7 @@ Rei J., **Brito C.**, Sousa A.
 </a>
 
 
-
+***
 ### 2017
 **Continuous ambulatory peritoneal dialysis: Business intelligence applied to patient monitoring: CAPD study and statistics**
 Peixoto C., **Brito C.**, Fontainhas M., Peixoto H., Machado J., Abelha A.
