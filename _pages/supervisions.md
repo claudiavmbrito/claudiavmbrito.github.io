@@ -43,7 +43,3 @@ author_profile: true
 ### 2023
 **Diana Rodrigues, José Fernandes and Mariana Amorim.** *Monitoring Energy Consumption with Fine-Granularity in Data-centric Applications.* Co-advised with António Sousa and Ricardo Macedo, University of Minho
 
-***
-
-## Teaching
-**Invited Assistant Professor (25%).** Lecturer of the Cloud Computing Applications and Services - MEI, MIEI, MMC courses (4th year), University of Minho. 2022 - 2023.
