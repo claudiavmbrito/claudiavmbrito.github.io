@@ -21,7 +21,7 @@ author_profile: true
 </a>
 <!-- Doi -->
 <a href="https://ieeexplore.ieee.org/abstract/document/10314994">
-  <img src="https://img.shields.io/badge/doi-10.1109%2FCluster48925.2021.00096-lightgrey?style=plastic" />
+  <img src="https://img.shields.io/badge/doi-10.1109%2FACCESS.2023.3332222-lightgrey?style=plastic" />
 </a>
 
 
@@ -39,7 +39,7 @@ Cepa, B., **Brito, C.**, Sousa, A.
 </a>
 <!-- Doi -->
 <a href="https://ieeexplore.ieee.org/abstract/document/10175330">
-  <img src="https://img.shields.io/badge/doi-10.1109%2FCluster48925.2021.00096-lightgrey?style=plastic" />
+  <img src="https://img.shields.io/badge/doi-10.1109%2FENBENG58165.2023.10175330-lightgrey?style=plastic" />
 </a>
 
 
@@ -57,7 +57,7 @@ Cepa, B., **Brito, C.**, Sousa, A.
 </a>
 <!-- Doi -->
 <a href="https://dl.acm.org/doi/abs/10.1145/3555776.3578591">
-  <img src="https://img.shields.io/badge/doi-10.1109%2FCluster48925.2021.00096-lightgrey?style=plastic" />
+  <img src="https://img.shields.io/badge/doi-10.1145%2F3555776.3578591-lightgrey?style=plastic" />
 </a>
 
 
@@ -89,7 +89,7 @@ Pina, N., **Brito, C.**, Vitorino, R., Cunha, I.
 </a>
 <!-- Doi -->
 <a href="https://www.sciencedirect.com/science/article/pii/S2352146523011171">
-  <img src="https://img.shields.io/badge/doi-10.1109%2FCluster48925.2021.00096-lightgrey?style=plastic" />
+  <img src="https://img.shields.io/badge/doi-10.1016%2Fj.trpro.2023.11.819-lightgrey?style=plastic" />
 </a>
 
 
@@ -109,7 +109,7 @@ Alves J., Soares B., **Brito C.**, Sousa A.
 </a>
 <!-- Doi -->
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-16474-3_17">
-  <img src="https://img.shields.io/badge/doi-10.1109%2FCluster48925.2021.00096-lightgrey?style=plastic" />
+  <img src="https://img.shields.io/badge/doi-10.1007%2F978-3-031-16474-3_17-lightgrey?style=plastic" />
 </a>
 
 
@@ -154,7 +154,7 @@ Ricardo Macedo, Cláudia Correia, Marco Dantas, **Cláudia Brito**, Weijia Xu, Y
 </a>
 <!-- Doi -->
 <a href="https://doi.org/10.3233/SHTI190182">
-  <img src="https://img.shields.io/badge/doi-10.1109%2FCluster48925.2021.00096-lightgrey?style=plastic" />
+  <img src="https://img.shields.io/badge/doi-10.3233%2FSHTI190182-lightgrey?style=plastic" />
 </a>
 
 
@@ -172,7 +172,7 @@ Ricardo Macedo, Cláudia Correia, Marco Dantas, **Cláudia Brito**, Weijia Xu, Y
 </a>
 <!-- Doi -->
 <a href="https://link.springer.com/article/10.1007/s11276-018-01905-4">
-  <img src="https://img.shields.io/badge/doi-10.1109%2FCluster48925.2021.00096-lightgrey?style=plastic" />
+  <img src="https://img.shields.io/badge/doi-10.1007%2Fs11276-018-01905-4-lightgrey?style=plastic" />
 </a>
 
 
@@ -192,7 +192,7 @@ Rei J., **Brito C.**, Sousa A.
 </a>
 <!-- Doi -->
 <a href="https://ieeexplore.ieee.org/document/8537859">
-  <img src="https://img.shields.io/badge/doi-10.1109%2FCluster48925.2021.00096-lightgrey?style=plastic" />
+  <img src="https://img.shields.io/badge/doi-10.1109%2FCIC.2018.00061-lightgrey?style=plastic" />
 </a>
 
 
@@ -212,5 +212,5 @@ Peixoto C., **Brito C.**, Fontainhas M., Peixoto H., Machado J., Abelha A.
 </a>
 <!-- Doi -->
 <a href="https://ieeexplore.ieee.org/document/8113790">
-  <img src="https://img.shields.io/badge/doi-10.1109%2FCluster48925.2021.00096-lightgrey?style=plastic" />
+  <img src="https://img.shields.io/badge/doi-10.1109%2FFiCloudW.2017.91-lightgrey?style=plastic" />
 </a>
