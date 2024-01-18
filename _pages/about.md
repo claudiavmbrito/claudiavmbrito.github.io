@@ -36,7 +36,7 @@ University of Minho.
 ===
 **Researcher (PhD student), HASLab INESC TEC.**    
 Research in distributed and privacy-preserving machine learning.    
-2018 --- 2023
+2018 --- On going
 
 **Data Research Intern, Ubiwhere.**    
 Supervisor: Ricardo Vitorino    

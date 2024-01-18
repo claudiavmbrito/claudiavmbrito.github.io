@@ -5,6 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2024
+
+**A Distributed Computing Solution for Privacy-Preserving Genome-Wide Association Studies**
+**Brito, C.**, Ferreira, P., Paulo, J. 
+*BioRxiv*
+
+<!-- PDF -->
+<a href="https://claudiavmbrito.github.io/files/gyosa/Gyosa_biorxiv.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+  </a>
+<!-- Bibtex -->
+<a href="https://claudiavmbrito.github.io/files/gyosa/bibtex.bib">
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
+</a>
+<!-- Doi -->
+<a href="https://www.biorxiv.org/content/10.1101/2024.01.15.575678v1">
+  <img src="https://img.shields.io/badge/doi-10.1101%2F2024.01.15.575678-lightgrey?style=plastic" />
+</a>
+
+
+
 ### 2023
 
 **Privacy-Preserving Machine Learning on Apache Spark.**
