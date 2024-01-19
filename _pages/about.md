@@ -22,8 +22,8 @@ Nonetheless, my research interests have been shifting towards three other topics
 ### Education
 
 
-**Ph.D --- Doctoral Program in Computer Science**
-Thesis: *"Towards a Privacy-Preserving Distributed Machine Learning Framework."*
+**Ph.D --- Doctoral Program in Computer Science**    
+Thesis: *"Towards a Privacy-Preserving Distributed Machine Learning Framework."*    
 Supervised by Prof. João Paulo and Prof. Pedro Ferreira.
 University of Minho.    
 2018 --- ongoing
@@ -45,5 +45,5 @@ University of Minho.
 
 * **Data Research Intern, Ubiwhere.**    
   Supervisor: Ricardo Vitorino    
-  Research and development of a federated learning system for urban mobility.
+  Research and development of a federated learning system for urban mobility.    
   2021.07 --- 2021.12
