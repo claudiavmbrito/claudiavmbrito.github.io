@@ -11,16 +11,20 @@ redirect_from:
 
 I am currently a PhD student and a researcher at [INESC TEC](https://www.inesctec.pt/en) ([DSR HASLab](https://dsr-haslab.github.io/) group) and an Invited Assistant Professor at [University of Minho](https://www.uminho.pt/EN).
 
-My current focus is on privacy-preserving and distributed machine learning systems. Nonetheless, my interests have been shifting towards the energy consumption and storage requirements in modern, large-scale I/O infrastructures for deep learning workloads.
+My current research focus is on privacy-preserving and distributed machine learning systems.
+Nonetheless, my research interests have been shifting towards three other topics:
+* Energy consumption and storage optimizations in modern and large-scale I/O infrastructures for deep learning workloads.
+* Machine learning for systems optimizations.
+* Distributed machine learning for biomedical research.
 
 ***
 
 ### Education
 
 
-**Ph.D --- Doctoral Program in Computer Science**    
-Thesis: *"Towards a Privacy-Preserving Distributed Machine Learning Framework."*    
-Supervised by Prof. João Paulo and Prof. Pedro Ferreira.    
+**Ph.D --- Doctoral Program in Computer Science**
+Thesis: *"Towards a Privacy-Preserving Distributed Machine Learning Framework."*
+Supervised by Prof. João Paulo and Prof. Pedro Ferreira.
 University of Minho.    
 2018 --- ongoing
 
@@ -34,7 +38,7 @@ University of Minho.
 ***
 
 ### Experience
-===
+
 * **Researcher (PhD student), HASLab INESC TEC.**    
   Research in distributed and privacy-preserving machine learning.    
   2018 --- On going
