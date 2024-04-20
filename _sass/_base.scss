@@ -186,7 +186,10 @@ figure {
   -webkit-box-align: start;
           align-items: flex-start;
   flex-wrap: wrap;
-  margin: 2em 0;
+  margin: .8em 0;
+  margin-bottom: 0;
+  min-height: 372px;
+  max-height: 372px;
 
   img,
   iframe,
@@ -196,6 +199,7 @@ figure {
 
   img {
     width: 100%;
+    max-width: 90vw;
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
@@ -312,4 +316,125 @@ nav {
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
+}
+
+// Card
+
+.card {
+  background-color: var(--global-card-bg-color);
+  min-height: 540;
+  max-height: 540;
+
+  img {
+    width: 100%;
+  }
+
+  .card-title {
+    color: var(--global-text-color);
+    min-height: 65px;
+    margin-top: 0;
+  }
+
+  .card-item {
+    width: auto;
+    margin-bottom: 10px;
+
+    .row {
+      display: flex;
+      align-items: center;
+    }
+  }
+}
+
+
+// Tryouts
+
+.tryouts {
+  a {
+    text-decoration: none;
+
+    &:hover {
+      .card-title {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+
+  .card {
+    min-height: 530;
+    max-height: 530;
+    img {
+      width: 100%;
+    }
+
+  }
+
+  .card-body {
+    padding: 0.5rem;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .card-title {
+    min-height: 65px;
+    margin-top: 0;
+  }
+
+  .card-item {
+    width: auto;
+    margin-bottom: 10px;
+
+    .row {
+      display: flex;
+      align-items: center;
+    }
+  }
+
+  .grid-sizer,
+  .grid-item {
+    width: 250px;
+    margin-bottom: 10px;
+  }
+
+  h2.category {
+    color: var(--global-divider-color);
+    border-bottom: 1px solid var(--global-divider-color);
+    padding-top: 0.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-align: left;
+  }
+}
+
+
+.featured-posts {
+  a {
+    color: var(--global-text-color-light);
+    text-decoration: none;
+
+    .card-text {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    &:hover {
+      color: var(--global-theme-color);
+
+      .card-title {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+
+  .card-item {
+    margin-bottom: 10px;
+  }
+
+  .post-meta {
+    color: var(--global-text-color-light);
+    font-size: 0.875rem;
+    margin-bottom: 0;
+    padding-top: 0.5rem;
+  }
 }

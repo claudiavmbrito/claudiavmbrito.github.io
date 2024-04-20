@@ -10,6 +10,9 @@
  *
 */
 
+// Dimensions
+$max-content-width: {{ site.max_width }};
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -17,6 +20,8 @@
 
 @import "reset";
 @import "base";
+@import "themes";
+@import "layout";
 
 @import "utilities";
 @import "animations";

@@ -13,8 +13,10 @@ I am currently a PhD student and a researcher at [INESC TEC](https://www.inescte
 
 My current research focus is on privacy-preserving and distributed machine learning systems.
 Nonetheless, my research interests have been shifting towards three other topics:
+
 * Energy consumption and storage optimizations in modern and large-scale I/O infrastructures for deep learning workloads.
 * Machine learning for systems optimizations.
+* Storage optimizations for machine learning workloads.
 * Distributed machine learning for biomedical research.
 
 ***
