@@ -74,7 +74,7 @@ Aveiro, Portugal. 2019.<br>
 </a>
 
 
-<span style="color:#063c72">**Cloud-based analytics for monitoring and classification of arrhythmias.**.</span><br>
+<span style="color:#063c72">**Cloud-based analytics for monitoring and classification of arrhythmias**.</span><br>
 *Master thesis presentation at University of Minho*.<br>
 Braga, Portugal. 2018.<br>
 
