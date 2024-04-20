@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Flexible I/O Monitoring for Distributed Systems"
+title: "Let's Go, Private! Towards a Privacy-Preserving and Distributed Machine Learning System"
 description: "In *Eurosys'22*.<br>Rennes, France. 2022."
 img: https://claudiavmbrito.github.io/assets/img/eurosys22-preview.png
 importance: 2

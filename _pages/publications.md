@@ -130,7 +130,7 @@ Alves J., Soares B., **Brito C.**, Sousa A.
 </a>
 <!-- Doi -->
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-16474-3_17">
-  <img src="https://img.shields.io/badge/doi-lightgrey?style=plastic" />
+  <img src="https://img.shields.io/badge/doi-10.1007%2F978%E2%80%933%E2%80%93031%E2%80%9316474%E2%80%933%5F17-lightgrey?style=plastic" />
 </a>
 
 
@@ -193,7 +193,7 @@ Ricardo Macedo, Cláudia Correia, Marco Dantas, **Cláudia Brito**, Weijia Xu, Y
 </a>
 <!-- Doi -->
 <a href="https://link.springer.com/article/10.1007/s11276-018-01905-4">
-  <img src="https://img.shields.io/badge/doi-10.1007%2Fs11276-018-01905-4-lightgrey?style=plastic" />
+  <img src="https://img.shields.io/badge/doi-10.1007%2Fs11276%E2%80%93018%E2%80%9301905%E2%80%934-lightgrey?style=plastic" />
 </a>
 
 
