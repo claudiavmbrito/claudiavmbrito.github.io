@@ -41,15 +41,15 @@ University of Minho.
 
 ### Experience
 
-* **Assistant Researcher, HASLab INESC TEC.**
+**Assistant Researcher, HASLab INESC TEC.**
   Research in distributed and energy-efficient machine learning and also on Application-specific AI for healthcare.
   2018 --- 2024
 
-* **Research Assistant (PhD student), HASLab INESC TEC.**
+**Research Assistant (PhD student), HASLab INESC TEC.**
   Research in distributed and privacy-preserving machine learning.
   2018 --- 2024
 
-* **Data Research Intern, Ubiwhere.**
+**Data Research Intern, Ubiwhere.**
   Supervisor: Ricardo Vitorino
   Research and development of a federated learning system for urban mobility.
   2021.07 --- 2021.12

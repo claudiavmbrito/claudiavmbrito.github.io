@@ -7,6 +7,14 @@ author_profile: true
 
 ### 2024
 
+**Towards a Privacy-Preserving Distributed Machine Learning Framework**
+**Brito, C.**
+<!-- PDF -->
+<a href="https://claudiavmbrito.github.io/files/phd/phdthesis_claudia.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+  </a>
+
+
 **A Distributed Computing Solution for Privacy-Preserving Genome-Wide Association Studies**
 **Brito, C.**, Ferreira, P., Paulo, J. 
 *BioRxiv*
