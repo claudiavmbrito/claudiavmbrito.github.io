@@ -22,8 +22,12 @@ In *MEDINFO 2019: Health and Wellbeing e-Networks for All*.<br>
 Lyon, France. 2019.<br>
 
 
-## Workshop talks
+## Workshop and Webinars talks
 <hr/>
+
+<span style="color:#063c72">**Protecting the Security of the AIDA Platform and the Privacy of its Data.**</span><br>
+In a Webinar of AIDA Project.<br>
+Online. 2022.<br>
 
 <span style="color:#063c72">**Let's Go, Private! Towards a Privacy-Preserving and Distributed Machine Learning System.**</span><br>
 In *EuroSys Doctoral Workshop*.<br>
@@ -54,10 +58,29 @@ Rennes, France. 2022.<br>
 ## Others
 <hr/>
 
-<span style="color:#063c72">**Privacy-Preserving and Distributed Machine Learning**.</span><br>
+<span style="color:#063c72">**Eﬃcient and Secure Data Management for HPC and Cloud Computing.**</span><br>
+In CENTRA 8 event.<br>
+Hsinchu, Taiwan. 2025.<br>
+
+<span style="color:#063c72">**Distributed Systems Research.**</span><br>
+In *Cloud Computing Services and Applications*, class of the first year of the MEI MSc course in Informatics Engineering, at University of Minho.<br>
+Braga, Portugal. 2024.<br>
+
+<span style="color:#063c72">**Distributed Storage Research.**</span><br>
+alk given during a faculty research visit at Florida International University (FIU).<br>
+Miami, USA. 2024.<br>
+
+<span style="color:#063c72">**Preservando a Privacidade da Computação e Outras Coisas.**</span><br>
+In Women in Engineering Celebration, Agrupamento de Escolas de Ponte da Barca.<br>
+Ponte da Barca, Portugal. 2024.<br>
+
+<span style="color:#063c72">**Privacy-Preserving and Distributed Machine Learning.**</span><br>
+In Women in Engineering Celebration, Agrupamento de Escolas de Ponte da Barca.<br>
+Ponte da Barca, Portugal. 2023.<br>
+
+<span style="color:#063c72">**Privacy-Preserving and Distributed Machine Learning.**</span><br>
 In *Cloud Computing Services and Applications*, class of the first year of the MEI MSc course in Informatics Engineering, at University of Minho.<br>
 Braga, Portugal. 2022.<br>
-
 
 <span style="color:#063c72">**Privacy-Preserving Machine Learning for Apache Spark**.</span><br>
 In *Encontro Nacional de Sistemas Distribuídos*.<br>

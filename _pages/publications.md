@@ -5,17 +5,69 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2025
+
+**Promoting sustainable and personalized travel behaviors while preserving data privacy**
+**Brito, C.**, Pina, N., Esteves, T., Vitorino, R., Cunha, I., Paulo, J.
+*Transportation Engineering*
+<!-- PDF -->
+<a href="https://claudiavmbrito.github.io/files/fl/fltransport.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+  </a>
+<!-- Bibtex -->
+<a href="https://claudiavmbrito.github.io/files/fl/bibtex.bib">
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
+</a>
+<!-- Doi -->
+<a href="https://doi.org/10.1016/j.treng.2024.100237">
+  <img src="https://img.shields.io/badge/doi-10.1016%2Fj.treng.2024.100237-lightgrey?style=plastic" />
+</a>
+
+
 ### 2024
 
-**Towards a Privacy-Preserving Distributed Machine Learning Framework**
-**Brito, C.**
+**MAC: An Artifact Correction Framework for Brain MRI based on Deep Neural Networks**
+Oliveira, A. and Cepa, B. and **Brito, C.** and Sousa, A.
+*BioRxiv*
+<!-- PDF -->
+<a href="https://claudiavmbrito.github.io/files/biomed/moana/moana.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+  </a>
+<!-- Bibtex -->
+<a href="https://claudiavmbrito.github.io/files/biomed/moana/bibtex.bib">
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
+</a>
+<!-- Doi -->
+<a href="https://doi.org/10.1101/2024.08.02.606374v2">
+  <img src="https://img.shields.io/badge/doi-10.1101%2F2024.08.02.606374v2-lightgrey?style=plastic" />
+</a>
+
+**To FID or not to FID: Applying GANs for MRI Image Generation in HPC**
+Cepa, B. and **Brito, C.** and Sousa, A.
+*BioRxiv*
+<!-- PDF -->
+<a href="https://claudiavmbrito.github.io/files/biomed/fid/fid.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+  </a>
+<!-- Bibtex -->
+<a href="https://claudiavmbrito.github.io/files/biomed/fid/bibtex.bib">
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
+</a>
+<!-- Doi -->
+<a href="https://doi.org/10.1101/2024.09.27.615343">
+  <img src="https://img.shields.io/badge/doi-10.1101%2F2024.09.27.615343-lightgrey?style=plastic" />
+</a>
+
+
+**Towards a Privacy-Preserving Distributed Machine Learning Framework.**
+**Brito, C.** *PhD Thesis*
 <!-- PDF -->
 <a href="https://claudiavmbrito.github.io/files/phd/phdthesis_claudia.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
   </a>
 
 
-**A Distributed Computing Solution for Privacy-Preserving Genome-Wide Association Studies**
+**A Distributed Computing Solution for Privacy-Preserving Genome-Wide Association Studies.**
 **Brito, C.**, Ferreira, P., Paulo, J. 
 *BioRxiv*
 
