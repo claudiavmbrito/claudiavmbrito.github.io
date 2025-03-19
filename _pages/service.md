@@ -15,15 +15,20 @@ author_profile: true
 
 ### 2024
 
-**Program Committee** *The 4th International Conference on Electronic and Electrical Engineering and Intelligent Systems. ICE3IS’24*
+**Program Committee** 
+* *The 4th International Conference on Electronic and Electrical Engineering and Intelligent Systems. ICE3IS’24*
 
-**Reviewer** *Computers in biology and medicine..* Elsevier.
+**Reviewer** 
+* *Computers in biology and medicine..* Elsevier.
 
-**Reviewer** *NeuroImage.* Elsevier.
+**Reviewer** 
+* *NeuroImage.* Elsevier.
 
-**Reviewer** *Sustainable Computing: Informatics and Systems.* Elsevier.
+**Reviewer** 
+* *Sustainable Computing: Informatics and Systems.* Elsevier.
 
-**Artifact Reviewer** SCP (Science of computer programming). Elsevier.
+**Artifact Reviewer** 
+* *SCP (Science of computer programming)*. Elsevier.
 
 ### 2023
 
@@ -33,9 +38,11 @@ author_profile: true
 
 ### 2021
 
-**Reviewer** *Progress in artificial intelligence.* Springer Nature.
+**Reviewer** 
+* *Progress in artificial intelligence.* Springer Nature.
 
 ### 2020
 
-**Volunteer** *International Conference on Learning Representations 2020 (ICLR'20).* Remote.
+**Volunteer** 
+* *International Conference on Learning Representations 2020 (ICLR'20).* Remote.
     
