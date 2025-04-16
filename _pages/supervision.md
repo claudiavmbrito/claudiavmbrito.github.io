@@ -23,7 +23,7 @@ author_profile: true
 
 * **Alícia Oliveira.** *Correction of Motion Artifacts using Deep Learning in High-Performance Computing.* Co-advised with António Sousa and Beatriz Cepa. University of Minho. *Finished: 20 values*    
 * **Diana Rodrigues.** *GPU energy control for Deep Learning systems.* Co-advised with Ricardo Macedo and António Sousa, University of Minho.  
-* **Mariana Amorim.** *Energy control system for disaggregated storage resources.* Co-advised with João Paulo and Ricardo Macedo, University of Minho.  
+* **Mariana Amorim.** *Energy control system for disaggregated storage resources.* Co-advised with João Paulo and Ricardo Macedo, University of Minho. *Finished: 18 values* 
 * **José Fernandes.** *Comprehensive study of the energy impact of key-value stores.* Co-advised with Ricardo Macedo and António Sousa, University of Minho.  
 * **Sara Pereira.** *Energy Control System for Large-Scale Infrastructures.* Co-advised with Ricardo Macedo and Carlos Baquero, University of Porto. *Finished: 18 values* 
 * **Francisco Neves.** *Heterogeneous Storage Solution for Deep Learning Frameworks.* Co-advised with João Paulo and Ricardo Macedo, University of Minho.  
