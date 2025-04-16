@@ -7,6 +7,23 @@ author_profile: true
 
 ### 2025
 
+**Risk Assessment Profiles for Caregiver Burden in Family Caregivers of Persons Living with Alzheimer’s Disease: An Exploratory Study with Machine Learning**
+Brito, L., Cepa, B., **Brito, C.**, Leite, Â., & Pereira, M. G.
+*European Journal of Investigation in Health, Psychology and Education*
+<!-- PDF -->
+<a href="https://claudiavmbrito.github.io/files/psi/psi_risk">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+  </a>
+<!-- Bibtex -->
+<a href="https://claudiavmbrito.github.io/files/psi/bibtex.bib">
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
+</a>
+<!-- Doi -->
+<a href="https://doi.org/10.1016/j.treng.2024.100237">
+  <img src="https://img.shields.io/badge/doi-10.3390%2Fejihpe15030041-lightgrey?style=plastic" />
+</a>
+
+
 **Promoting sustainable and personalized travel behaviors while preserving data privacy**
 **Brito, C.**, Pina, N., Esteves, T., Vitorino, R., Cunha, I., Paulo, J.
 *Transportation Engineering*
