@@ -82,6 +82,9 @@ Cepa, B. and **Brito, C.** and Sousa, A.
 <a href="https://claudiavmbrito.github.io/files/phd/phdthesis_claudia.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
   </a>
+<a href="https://claudiavmbrito.github.io/files/phd/phd_presentation_claudia.pdf">
+    <img src="https://img.shields.io/badge/-slides-white?style=plastic&logo=microsoft-powerpoint&logoColor=white&labelColor=lightgray" />
+  </a>
 
 
 **A Distributed Computing Solution for Privacy-Preserving Genome-Wide Association Studies.**
