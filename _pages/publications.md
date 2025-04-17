@@ -7,6 +7,13 @@ author_profile: true
 
 ### 2025
 
+**Exploiting Trusted Execution Environments and Distributed Computation for Genomic Association Tests**
+**Brito, C.**, Ferreira, P., Paulo, J.
+*IEEE Journal of Biomedical and Health Informatics* To appear.
+
+
+
+
 **Risk Assessment Profiles for Caregiver Burden in Family Caregivers of Persons Living with Alzheimer’s Disease: An Exploratory Study with Machine Learning**
 Brito, L., Cepa, B., **Brito, C.**, Leite, Â., & Pereira, M. G.
 *European Journal of Investigation in Health, Psychology and Education*

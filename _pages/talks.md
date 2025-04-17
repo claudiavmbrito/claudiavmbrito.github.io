@@ -17,6 +17,8 @@ Tallinn, Estonia. 2023.<br>
     <img src="https://img.shields.io/badge/-slides-white?style=plastic&logo=microsoft-powerpoint&logoColor=white&labelColor=lightgray" />
 </a>
 
+
+
 <span style="color:#063c72">**Electrocardiogram Beat-Classification Based on a ResNet Network**.</span><br>
 In *MEDINFO 2019: Health and Wellbeing e-Networks for All*.<br>
 Lyon, France. 2019.<br>
@@ -77,6 +79,8 @@ Ponte da Barca, Portugal. 2024.<br>
 <span style="color:#063c72">**Privacy-Preserving and Distributed Machine Learning.**</span><br>
 In Women in Engineering Celebration, Agrupamento de Escolas de Ponte da Barca.<br>
 Ponte da Barca, Portugal. 2023.<br>
+<a href="https://claudiavmbrito.github.io/files/presentations/fevereiro2023_secundario.pdf">
+    <img src="https://img.shields.io/badge/-slides-white?style=plastic&logo=microsoft-powerpoint&logoColor=white&labelColor=lightgray" />
 
 <span style="color:#063c72">**Privacy-Preserving and Distributed Machine Learning.**</span><br>
 In *Cloud Computing Services and Applications*, class of the first year of the MEI MSc course in Informatics Engineering, at University of Minho.<br>

@@ -15,11 +15,11 @@ author_profile: true
   Lecturer of the Object Oriented Paradigms
   *Second year of the Informatics Engineering (LEI) BSc course, U. Minho.*
 
-- **Invited Assistant Professor (25%).** 
+- **Invited Assistant (25%).** 
   Lecturer of the Cloud Computing Applications and Services
   *First year of the Informatics Engineering (MEI) MSc course, U. Minho.*
 
-- **Invited Assistant Professor (25%).** 
+- **Invited Assistant (25%).** 
   Lecturer of the Software Platforms
   *First year of the Biomedical Engineering (MEBIOM) MSc course - specialization in Medical Informatics, U. Minho.*
 
