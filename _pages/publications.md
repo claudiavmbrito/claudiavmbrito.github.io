@@ -18,7 +18,7 @@ author_profile: true
 Brito, L., Cepa, B., **Brito, C.**, Leite, Â., & Pereira, M. G.
 *European Journal of Investigation in Health, Psychology and Education*
 <!-- PDF -->
-<a href="https://claudiavmbrito.github.io/files/psi/psi_risk">
+<a href="https://claudiavmbrito.github.io/files/psi/psi_risk.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
   </a>
 <!-- Bibtex -->
@@ -26,7 +26,7 @@ Brito, L., Cepa, B., **Brito, C.**, Leite, Â., & Pereira, M. G.
   <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
 </a>
 <!-- Doi -->
-<a href="https://doi.org/10.1016/j.treng.2024.100237">
+<a href="https://doi.org/10.3390/ejihpe15030041">
   <img src="https://img.shields.io/badge/doi-10.3390%2Fejihpe15030041-lightgrey?style=plastic" />
 </a>
 
