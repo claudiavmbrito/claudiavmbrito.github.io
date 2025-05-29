@@ -7,6 +7,7 @@ author_profile: true
 
 ## MSc theses
 
+***
 ### 2024/2025
 
 * **Ana Sousa.** *Classifying Alzheimer’s Disease through Federated Learning and 3D Brain MRIs.* Co-advised with António Sousa, Beatriz Cepa and Alícia Oliveira. University of Minho. 
@@ -18,21 +19,21 @@ author_profile: true
 * **André Lucena.** *Storage Optimizations for large-scale AI training in HPC.* Co-advised with João Paulo, University of Minho.
         
 
-
+***
 ### 2023/2024
 
 * **Alícia Oliveira.** *Correction of Motion Artifacts using Deep Learning in High-Performance Computing.* Co-advised with António Sousa and Beatriz Cepa. University of Minho. *Finished: 20 values*    
-* **Diana Rodrigues.** *GPU energy control for Deep Learning systems.* Co-advised with Ricardo Macedo and António Sousa, University of Minho.  
+* **Diana Rodrigues.** *GPU energy control for Deep Learning systems.* Co-advised with Ricardo Macedo and António Sousa, University of Minho. *Finished: 19 values*  
 * **Mariana Amorim.** *Energy control system for disaggregated storage resources.* Co-advised with João Paulo and Ricardo Macedo, University of Minho. *Finished: 18 values* 
-* **José Fernandes.** *Comprehensive study of the energy impact of key-value stores.* Co-advised with Ricardo Macedo and António Sousa, University of Minho.  
+* **José Fernandes.** *Comprehensive study of the energy impact of key-value stores.* Co-advised with Ricardo Macedo and António Sousa, University of Minho. *Finished: 19 values*  
 * **Sara Pereira.** *Energy Control System for Large-Scale Infrastructures.* Co-advised with Ricardo Macedo and Carlos Baquero, University of Porto. *Finished: 18 values* 
 * **Francisco Neves.** *Heterogeneous Storage Solution for Deep Learning Frameworks.* Co-advised with João Paulo and Ricardo Macedo, University of Minho.  
 
 ***
 ### 2022/2023
 
-* **Maria Beatriz Moreira.** *"I/O Optimizations for Distributed Deep Learning Training"*. Co-advised with João Paulo and Ricardo Macedo. University of Minho*  
-* **Luís Branco.** *Integration of Distributed Deep Learning in MCC application.* Co-advised with António Sousa and Beatriz Cepa.   
+* **Maria Beatriz Moreira.** *"I/O Optimizations for Distributed Deep Learning Training"*. Co-advised with João Paulo and Ricardo Macedo. University of Minho* *Finished: 18 values*   
+* **Luís Branco.** *Integration of Distributed Deep Learning in MCC application.* Co-advised with António Sousa and Beatriz Cepa. University of Minho. 
 
 ***
 ### 2021/2022
@@ -54,6 +55,9 @@ author_profile: true
 ***
 
 ## Research mentorship
+
+### 2025
+* **Manuel Carvalho, Nuno Matos.** *Pipeline for the analysis of time series data based in AI models using distributed systems.* Co-advised with Fábio Coelho (under the ATE project), University of Minho.
 
 ### 2023
 * **Diana Rodrigues, José Fernandes and Mariana Amorim.** *Monitoring Energy Consumption with Fine-Granularity in Data-centric Applications.* Co-advised with António Sousa and Ricardo Macedo, University of Minho
