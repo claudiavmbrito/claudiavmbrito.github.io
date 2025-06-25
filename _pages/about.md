@@ -16,7 +16,6 @@ In detail, my research interests have been shifting towards the following topics
 
 * AI for systems optimizations and tuning.
 * Storage optimizations for AI workloads.
-* Privacy-preserving federated learning.
 * Energy consumption optimization for data-intensive workloads.
 * Application-specific AI for healthcare.
 
@@ -43,7 +42,7 @@ University of Minho.
 
 **Assistant Researcher, HASLab INESC TEC.**
   Research in AI for systems and systems for AI.
-  2018 --- current
+  2024 --- current
 
 **Research Assistant (PhD student), HASLab INESC TEC.**
   Research in distributed and privacy-preserving machine learning.

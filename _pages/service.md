@@ -6,12 +6,15 @@ author_profile: true
 ---
 ### 2025
 
+**Technical Program Committee**
+* *Workshop on Reliable Large-scale Data Management. SRDS'25*
+
 **Reviewer**
 * *Progress in artificial intelligence.* Springer Nature.
 * *Polytechnic Journal*. 
 
 **Artifact Evaluation Committee**
-* *The 19th USENIX Symposium on Operating Systems Design and Implementation. OSDI '25*
+* *The 19th USENIX Symposium on Operating Systems Design and Implementation. OSDI'25*
 * *The 20th ACM European Conference on Computer Systems. EuroSys’25* 
 * *The 24th International Conference on Distributed Applications and Interoperable Systems. DAIS'25*
 
@@ -26,7 +29,7 @@ author_profile: true
 
 **Reviewer**
 * *Transactions on Dependable and Secure Computing.* IEEE.
-* *Computers in biology and medicine..* Elsevier.
+* *Computers in biology and medicine.* Elsevier.
 * *NeuroImage.* Elsevier.
 * *Sustainable Computing: Informatics and Systems.* Elsevier.
 
