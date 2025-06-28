@@ -8,6 +8,7 @@ author_profile: true
 
 **Technical Program Committee**
 * *Workshop on Reliable Large-scale Data Management. SRDS'25*
+* *The 5th International Conference on Electronic and Electrical Engineering and Intelligent Systems. ICE3IS’25*
 
 **Reviewer**
 * *Progress in artificial intelligence.* Springer Nature.
