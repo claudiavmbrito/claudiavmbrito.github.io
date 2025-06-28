@@ -7,7 +7,8 @@ author_profile: true
 ### 2025
 
 **Technical Program Committee**
-* *Workshop on Reliable Large-scale Data Management. SRDS'25*
+* *1st Workshop on Reliable Large-scale Data Management. W-RLDM 2025 @ SRDS'25*
+* *1st Workshop on Byzantine Fault Tolerance and Artificial Intelligence Systems. BFT-AI 2025 @ SRDS'25*
 * *The 5th International Conference on Electronic and Electrical Engineering and Intelligent Systems. ICE3IS’25*
 
 **Reviewer**
