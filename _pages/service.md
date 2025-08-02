@@ -7,6 +7,7 @@ author_profile: true
 ### 2025
 
 **Technical Program Committee**
+* *The 32nd IEEE International Symposium on High-Performance Computer Architecture. HPCA 2026*
 * *1st Workshop on Reliable Large-scale Data Management. W-RLDM 2025 @ SRDS'25*
 * *1st Workshop on Byzantine Fault Tolerance and Artificial Intelligence Systems. BFT-AI 2025 @ SRDS'25*
 * *The 5th International Conference on Electronic and Electrical Engineering and Intelligent Systems. ICE3IS’25*
@@ -16,6 +17,7 @@ author_profile: true
 * *Polytechnic Journal*. 
 
 **Artifact Evaluation Committee**
+* *The 31th ACM Symposium on Operating Systems Principles. SOSP '25*
 * *The 19th USENIX Symposium on Operating Systems Design and Implementation. OSDI'25*
 * *The 20th ACM European Conference on Computer Systems. EuroSys’25* 
 * *The 24th International Conference on Distributed Applications and Interoperable Systems. DAIS'25*
