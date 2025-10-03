@@ -4,6 +4,16 @@ title: "Service"
 permalink: /service/
 author_profile: true
 ---
+
+### 2026
+
+**Technical Program Committee**
+* *The 32nd IEEE International Symposium on High-Performance Computer Architecture. HPCA 2026*
+
+**Artifact Evaluation Committee**
+* *The 21st ACM European Conference on Computer Systems. EuroSys’26* 
+
+
 ### 2025
 
 **Technical Program Committee**

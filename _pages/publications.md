@@ -7,14 +7,41 @@ author_profile: true
 
 ### 2025
 
-**Exploiting Trusted Execution Environments and Distributed Computation for Genomic Association Tests**
+**Idiosyncrasies of Programmable Caching Engines**    
+Peixoto J., Gonzalez, A., Bhimani, J., Rangaswami, R., **Brito, C.**, Paulo, J., Macedo, R..    
+*IEEE International Symposium on Reliable Distributed Systems @ Workshop on Reliable Large-scale Data Management, 2025*    
+<!-- PDF -->
+<a href="https://claudiavmbrito.github.io/files/cachelib/wrldm-cachelib-peixoto.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
+
+
+**One Does Not Simply Cache: A Study on Distributed Caches for AI Training in HPC**    
+Ferreira, A., Sousa, G., Ruhela, A., Cazes, J., Bhimani, J., Rangaswami, R., Macedo, R., **Brito, C.**, Paulo, J. 
+*IEEE International Symposium on Reliable Distributed Systems @ Workshop on Reliable Large-scale Data Management, 2025*    
+<!-- PDF -->
+<a href="https://claudiavmbrito.github.io/files/storagedl/wrldm-ddl-caching-ferreira.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
+
+**Exploiting Trusted Execution Environments and Distributed Computation for Genomic Association Tests**    
 **Brito, C.**, Ferreira, P., Paulo, J.
-*IEEE Journal of Biomedical and Health Informatics* To appear.
+*IEEE Journal of Biomedical and Health Informatics*.
+<!-- PDF -->
+<a href="https://claudiavmbrito.github.io/files/gyosa/gyosa_jbhi.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+  </a>
+<!-- Bibtex -->
+<a href="https://claudiavmbrito.github.io/files/gyosa/jbhi/bibtex.bib">
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
+</a>
+<!-- Doi -->
+<a href="https://doi.org/10.1109/JBHI.2025.3562364">
+  <img src="https://img.shields.io/badge/doi-10.1109%2FJBHI.2025.3562364-lightgrey?style=plastic" />
+</a>
 
 
-
-
-**Risk Assessment Profiles for Caregiver Burden in Family Caregivers of Persons Living with Alzheimer’s Disease: An Exploratory Study with Machine Learning**
+**Risk Assessment Profiles for Caregiver Burden in Family Caregivers of Persons Living with Alzheimer’s Disease: An Exploratory Study with Machine Learning**    
 Brito, L., Cepa, B., **Brito, C.**, Leite, Â., & Pereira, M. G.
 *European Journal of Investigation in Health, Psychology and Education*
 <!-- PDF -->
@@ -31,7 +58,7 @@ Brito, L., Cepa, B., **Brito, C.**, Leite, Â., & Pereira, M. G.
 </a>
 
 
-**Promoting sustainable and personalized travel behaviors while preserving data privacy**
+**Promoting sustainable and personalized travel behaviors while preserving data privacy**    
 **Brito, C.**, Pina, N., Esteves, T., Vitorino, R., Cunha, I., Paulo, J.
 *Transportation Engineering*
 <!-- PDF -->
@@ -50,7 +77,7 @@ Brito, L., Cepa, B., **Brito, C.**, Leite, Â., & Pereira, M. G.
 
 ### 2024
 
-**MAC: An Artifact Correction Framework for Brain MRI based on Deep Neural Networks**
+**MAC: An Artifact Correction Framework for Brain MRI based on Deep Neural Networks**    
 Oliveira, A. and Cepa, B. and **Brito, C.** and Sousa, A.
 *BioRxiv*
 <!-- PDF -->
@@ -66,7 +93,7 @@ Oliveira, A. and Cepa, B. and **Brito, C.** and Sousa, A.
   <img src="https://img.shields.io/badge/doi-10.1101%2F2024.08.02.606374v2-lightgrey?style=plastic" />
 </a>
 
-**To FID or not to FID: Applying GANs for MRI Image Generation in HPC**
+**To FID or not to FID: Applying GANs for MRI Image Generation in HPC**    
 Cepa, B. and **Brito, C.** and Sousa, A.
 *BioRxiv*
 <!-- PDF -->
@@ -83,7 +110,7 @@ Cepa, B. and **Brito, C.** and Sousa, A.
 </a>
 
 
-**Towards a Privacy-Preserving Distributed Machine Learning Framework.**
+**Towards a Privacy-Preserving Distributed Machine Learning Framework.**    
 **Brito, C.** *PhD Thesis*
 <!-- PDF -->
 <a href="https://claudiavmbrito.github.io/files/phd/phdthesis_claudia.pdf">
@@ -94,7 +121,7 @@ Cepa, B. and **Brito, C.** and Sousa, A.
   </a>
 
 
-**A Distributed Computing Solution for Privacy-Preserving Genome-Wide Association Studies.**
+**A Distributed Computing Solution for Privacy-Preserving Genome-Wide Association Studies.**    
 **Brito, C.**, Ferreira, P., Paulo, J. 
 *BioRxiv*
 
@@ -115,7 +142,7 @@ Cepa, B. and **Brito, C.** and Sousa, A.
 
 ### 2023
 
-**Privacy-Preserving Machine Learning on Apache Spark.**
+**Privacy-Preserving Machine Learning on Apache Spark.**    
 **Brito, C.**, Ferreira, P., Portela, B., Oliveira, R., Paulo, J. 
 *IEEE Access.*
 
@@ -133,7 +160,7 @@ Cepa, B. and **Brito, C.** and Sousa, A.
 </a>
 
 
-**Generative Adversarial Networks in Healthcare: A Case Study on MRI Image Generation**
+**Generative Adversarial Networks in Healthcare: A Case Study on MRI Image Generation**    
 Cepa, B., **Brito, C.**, Sousa, A.
 *2023 IEEE 7th Portuguese Meeting on Bioengineering (ENBENG)*
 
@@ -151,7 +178,7 @@ Cepa, B., **Brito, C.**, Sousa, A.
 </a>
 
 
-**SOTERIA: Preserving Privacy in Distributed Machine Learning.**
+**SOTERIA: Preserving Privacy in Distributed Machine Learning.**    
 **Brito, C.**, Ferreira, P., Portela, B., Oliveira, R., Paulo, J. 
 *Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing.*
 
@@ -169,7 +196,7 @@ Cepa, B., **Brito, C.**, Sousa, A.
 </a>
 
 
-**Emission-Aware Federated Learning: A Case Study on Transportation and Carbon Footprint**
+**Emission-Aware Federated Learning: A Case Study on Transportation and Carbon Footprint**    
 **Brito C.**, Pina N., Vitorino R., Cunha I., Paulo J.
 *EuroSys 2023, Poster Session.*
 
@@ -183,7 +210,7 @@ Cepa, B., **Brito, C.**, Sousa, A.
 </a>
 
 
-**Promoting sustainable and personalised travel behaviours while preserving data privacy**
+**Promoting sustainable and personalised travel behaviours while preserving data privacy**    
 Pina, N., **Brito, C.**, Vitorino, R., Cunha, I.
 *Transportation Research Procedia*
 
@@ -203,7 +230,7 @@ Pina, N., **Brito, C.**, Vitorino, R., Cunha, I.
 
 ***
 ### 2022
-**Cloud-Based Privacy-Preserving Medical Imaging System Using Machine Learning Tools**
+**Cloud-Based Privacy-Preserving Medical Imaging System Using Machine Learning Tools**    
 Alves J., Soares B., **Brito C.**, Sousa A.
 *Progress in Artificial Intelligence. EPIA 2022.*
 
@@ -248,7 +275,7 @@ Ricardo Macedo, Cláudia Correia, Marco Dantas, **Cláudia Brito**, Weijia Xu, Y
 ***
 ### 2019
 
-**Electrocardiogram Beat-Classification Based on a ResNet Network.**
+**Electrocardiogram Beat-Classification Based on a ResNet Network.**    
 **Brito C.**, Machado A., Sousa A.
 *MEDINFO 2019: Health and Wellbeing e-Networks for All*
 
@@ -266,7 +293,7 @@ Ricardo Macedo, Cláudia Correia, Marco Dantas, **Cláudia Brito**, Weijia Xu, Y
 </a>
 
 
-**A data mining approach to classify serum creatinine values in patients undergoing continuous ambulatory peritoneal dialysis**
+**A data mining approach to classify serum creatinine values in patients undergoing continuous ambulatory peritoneal dialysis**    
 **Brito C.**, Esteves M., Peixoto H., Abelha A., Machado J.
 *Wireless Networks*
 
@@ -286,7 +313,7 @@ Ricardo Macedo, Cláudia Correia, Marco Dantas, **Cláudia Brito**, Weijia Xu, Y
 
 *** 
 ### 2018
-**Assessment of an IoT Platform for Data Collection and Analysis for Medical Sensors**
+**Assessment of an IoT Platform for Data Collection and Analysis for Medical Sensors**    
 Rei J., **Brito C.**, Sousa A.
 *IEEE 4th International Conference on Collaboration and Internet Computing (CIC) (2018) 405-411*
 
@@ -306,7 +333,7 @@ Rei J., **Brito C.**, Sousa A.
 
 ***
 ### 2017
-**Continuous ambulatory peritoneal dialysis: Business intelligence applied to patient monitoring: CAPD study and statistics**
+**Continuous ambulatory peritoneal dialysis: Business intelligence applied to patient monitoring: CAPD study and statistics**    
 Peixoto C., **Brito C.**, Fontainhas M., Peixoto H., Machado J., Abelha A.
 *Proceedings - 2017 5th International Conference on Future Internet of Things and Cloud Workshops, W-FiCloud 2017 (2017) 2017-January 178-185*
 
