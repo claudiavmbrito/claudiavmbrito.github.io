@@ -5,6 +5,10 @@ permalink: /supervision/
 author_profile: true
 ---
 
+## PhD theses
+
+* **Alícia Oliveira.** *A systems perspective on LLM optimizations.* Supervised with António Sousa. University of Minho. 
+
 ## MSc theses
 
 ***

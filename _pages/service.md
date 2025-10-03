@@ -5,66 +5,76 @@ permalink: /service/
 author_profile: true
 ---
 
+## Program Committee Member
+
 ### 2026
 
-**Technical Program Committee**
-* *The 32nd IEEE International Symposium on High-Performance Computer Architecture. HPCA 2026*
-
-**Artifact Evaluation Committee**
-* *The 21st ACM European Conference on Computer Systems. EuroSys’26* 
-
+* 32nd IEEE International Symposium on High-Performance Computer Architecture ([HPCA 2026](https://hpca-conf.org/))
 
 ### 2025
 
-**Technical Program Committee**
-* *The 32nd IEEE International Symposium on High-Performance Computer Architecture. HPCA 2026*
-* *1st Workshop on Reliable Large-scale Data Management. W-RLDM 2025 @ SRDS'25*
-* *1st Workshop on Byzantine Fault Tolerance and Artificial Intelligence Systems. BFT-AI 2025 @ SRDS'25*
-* *The 5th International Conference on Electronic and Electrical Engineering and Intelligent Systems. ICE3IS’25*
+* 32nd IEEE International Symposium on High-Performance Computer Architecture ([HPCA 2026](https://hpca-conf.org/))
+* 1st Workshop on Reliable Large-scale Data Management, co-located with IEEE SRDS ([W-RLDM 2025](https://rldm.invisiblelab.dev/))
+* 1st Workshop on Byzantine Fault Tolerance and Artificial Intelligence Systems, co-located with IEEE SRDS (BFT-AI 2025)
+* 5th International Conference on Electronic and Electrical Engineering and Intelligent Systems (ICE3IS'25)
 
-**Reviewer**
-* *Progress in artificial intelligence.* Springer Nature.
-* *Polytechnic Journal*. 
-
-**Artifact Evaluation Committee**
-* *The 31th ACM Symposium on Operating Systems Principles. SOSP '25*
-* *The 19th USENIX Symposium on Operating Systems Design and Implementation. OSDI'25*
-* *The 20th ACM European Conference on Computer Systems. EuroSys’25* 
-* *The 24th International Conference on Distributed Applications and Interoperable Systems. DAIS'25*
-
-**Shadow Program Committee**
-* *The 20th ACM European Conference on Computer Systems. EuroSys’25.*
-
-***
 ### 2024
 
-**Program Committee**
-* *The 4th International Conference on Electronic and Electrical Engineering and Intelligent Systems. ICE3IS’24*
-
-**Reviewer**
-* *Transactions on Dependable and Secure Computing.* IEEE.
-* *Computers in biology and medicine.* Elsevier.
-* *NeuroImage.* Elsevier.
-* *Sustainable Computing: Informatics and Systems.* Elsevier.
-
-**Artifact Reviewer**
-* *SCP (Science of computer programming)*. Elsevier.
+* 4th International Conference on Electronic and Electrical Engineering and Intelligent Systems (ICE3IS'24)
 
 ***
+
+## Artifact Evaluation Committee
+
+### 2026
+
+* 21st ACM European Conference on Computer Systems ([EuroSys'26](https://eurosys2026.org/))
+
+### 2025
+
+* 31st ACM Symposium on Operating Systems Principles ([SOSP '25](https://sosp2025.cs.cornell.edu/))
+* 19th USENIX Symposium on Operating Systems Design and Implementation ([OSDI'25](https://www.usenix.org/conference/osdi25))
+* 20th ACM European Conference on Computer Systems ([EuroSys'25](https://eurosys2025.org/))
+* 24th International Conference on Distributed Applications and Interoperable Systems ([DAIS'25](https://www.discotec.org/2025/dais))
+
 ### 2023
 
-**Artifact Evaluation Committee**
-* *The Sixth Annual Conference on Machine Learning and Systems. MLSys’23* 
-* *The 23rd International Conference on Distributed Applications and Interoperable Systems. DAIS’23*
+* 6th Annual Conference on Machine Learning and Systems ([MLSys'23](https://mlsys.org/Conferences/2023))
+* 23rd International Conference on Distributed Applications and Interoperable Systems ([DAIS'23](https://www.discotec.org/2023/dais))
 
 ***
+
+## Shadow Program Committee
+
+### 2025
+
+* 20th ACM European Conference on Computer Systems ([EuroSys'25](https://eurosys2025.org/))
+
+***
+
+## Journal Reviewer
+
+### 2025
+
+* Progress in Artificial Intelligence (Springer Nature)
+* Polytechnic Journal
+
+### 2024
+
+* IEEE Transactions on Dependable and Secure Computing
+* Computers in Biology and Medicine (Elsevier)
+* NeuroImage (Elsevier)
+* Sustainable Computing: Informatics and Systems (Elsevier)
+* Science of Computer Programming (Elsevier) [**Artifact Reviewer**]
+
 ### 2021
 
-**Reviewer**
-* *Progress in artificial intelligence.* Springer Nature.
+* Progress in Artificial Intelligence (Springer Nature)
 
 ***
+
+## Other Service
+
 ### 2020
 
-**Volunteer**
-* *International Conference on Learning Representations 2020 (ICLR'20).* Remote.
+* Volunteer at International Conference on Learning Representations ([ICLR'20](https://iclr.cc/Conferences/2020))

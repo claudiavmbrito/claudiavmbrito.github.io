@@ -3,37 +3,32 @@ layout: archive
 title: "Talks"
 permalink: /talks/
 author_profile: true
-display_categories: ["2023", "2022", "2019"]
-horizontal: false
 ---
 
-## Conference talks
-<hr/>
+## Conference Talks
 
-<span style="color:#063c72">**SOTERIA: Preserving Privacy in Distributed Machine Learning**.</span><br>
-In *ACM/SIGAPP Symposium on Applied Computing*.<br>
-Tallinn, Estonia. 2023.<br>
+**SOTERIA: Preserving Privacy in Distributed Machine Learning**  
+*ACM/SIGAPP Symposium on Applied Computing*  
+Tallinn, Estonia. 2023  
 <a href="https://claudiavmbrito.github.io/files/soteria/SAC23.pdf">
     <img src="https://img.shields.io/badge/-slides-white?style=plastic&logo=microsoft-powerpoint&logoColor=white&labelColor=lightgray" />
 </a>
 
+**Electrocardiogram Beat-Classification Based on a ResNet Network**  
+*MEDINFO 2019: Health and Wellbeing e-Networks for All*  
+Lyon, France. 2019
 
+***
 
-<span style="color:#063c72">**Electrocardiogram Beat-Classification Based on a ResNet Network**.</span><br>
-In *MEDINFO 2019: Health and Wellbeing e-Networks for All*.<br>
-Lyon, France. 2019.<br>
+## Workshop and Webinar Talks
 
+**Protecting the Security of the AIDA Platform and the Privacy of its Data**  
+*AIDA Project Webinar*  
+Online. 2022
 
-## Workshop and Webinars talks
-<hr/>
-
-<span style="color:#063c72">**Protecting the Security of the AIDA Platform and the Privacy of its Data.**</span><br>
-In a Webinar of AIDA Project.<br>
-Online. 2022.<br>
-
-<span style="color:#063c72">**Let's Go, Private! Towards a Privacy-Preserving and Distributed Machine Learning System.**</span><br>
-In *EuroSys Doctoral Workshop*.<br>
-Rennes, France. 2022.<br>
+**Let's Go, Private! Towards a Privacy-Preserving and Distributed Machine Learning System**  
+*EuroSys Doctoral Workshop*  
+Rennes, France. 2022  
 <a href="https://claudiavmbrito.github.io/files/eurosys/eurodw-key.pdf">
     <img src="https://img.shields.io/badge/-slides-white?style=plastic&logo=microsoft-powerpoint&logoColor=white&labelColor=lightgray" />
 </a>
@@ -81,29 +76,26 @@ In Women in Engineering Celebration, Agrupamento de Escolas de Ponte da Barca.<b
 Ponte da Barca, Portugal. 2023.<br>
 <a href="https://claudiavmbrito.github.io/files/presentations/fevereiro2023_secundario.pdf">
     <img src="https://img.shields.io/badge/-slides-white?style=plastic&logo=microsoft-powerpoint&logoColor=white&labelColor=lightgray" />
+</a>
 
-<span style="color:#063c72">**Privacy-Preserving and Distributed Machine Learning.**</span><br>
-In *Cloud Computing Services and Applications*, class of the first year of the MEI MSc course in Informatics Engineering, at University of Minho.<br>
-Braga, Portugal. 2022.<br>
+**Privacy-Preserving and Distributed Machine Learning**  
+*Cloud Computing Services and Applications Course, MEI MSc*  
+University of Minho, Braga, Portugal. 2022
 
-<span style="color:#063c72">**Privacy-Preserving Machine Learning for Apache Spark**.</span><br>
-In *Encontro Nacional de Sistemas Distribuídos*.<br>
-Évora, Portugal. 2022.<br>
+**Privacy-Preserving Machine Learning for Apache Spark**  
+*Encontro Nacional de Sistemas Distribuídos*  
+Évora, Portugal. 2022  
 <a href="https://claudiavmbrito.github.io/files/ensd/ensd2022_claudiabrito.pdf">
     <img src="https://img.shields.io/badge/-slides-white?style=plastic&logo=microsoft-powerpoint&logoColor=white&labelColor=lightgray" />
 </a>
 
-<span style="color:#063c72">**SecureMLlib: Privacy-Preserving Distributed Machine Learning**.</span><br>
-In *Ciclo de Eventos Dinâmicas para a Inovação*.<br>
-Aveiro, Portugal. 2019.<br>
+**SecureMLlib: Privacy-Preserving Distributed Machine Learning**  
+*Ciclo de Eventos Dinâmicas para a Inovação*  
+Aveiro, Portugal. 2019  
 <a href="https://claudiavmbrito.github.io/files/ani/pitch.pdf">
     <img src="https://img.shields.io/badge/-slides-white?style=plastic&logo=microsoft-powerpoint&logoColor=white&labelColor=lightgray" />
 </a>
 
-
-<span style="color:#063c72">**Cloud-based analytics for monitoring and classification of arrhythmias**.</span><br>
-*Master thesis presentation at University of Minho*.<br>
-Braga, Portugal. 2018.<br>
-
-
-<!-- Pre-tese - 14/11/2019 -->
+**Cloud-based Analytics for Monitoring and Classification of Arrhythmias**  
+*Master Thesis Presentation*  
+University of Minho, Braga, Portugal. 2018
