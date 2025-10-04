@@ -33,9 +33,9 @@ Rennes, France. 2022
     <img src="https://img.shields.io/badge/-slides-white?style=plastic&logo=microsoft-powerpoint&logoColor=white&labelColor=lightgray" />
 </a>
 
+***
 
 ## Posters
-<hr/>
 
 <div class="post">
     <article>
@@ -52,28 +52,29 @@ Rennes, France. 2022
     </article>
 </div>
 
-## Others
-<hr/>
+***
 
-<span style="color:#063c72">**Eﬃcient and Secure Data Management for HPC and Cloud Computing.**</span><br>
-In CENTRA 8 event.<br>
-Hsinchu, Taiwan. 2025.<br>
+## Invited Talks and Presentations
 
-<span style="color:#063c72">**Distributed Systems Research.**</span><br>
-In *Cloud Computing Services and Applications*, class of the first year of the MEI MSc course in Informatics Engineering, at University of Minho.<br>
-Braga, Portugal. 2024.<br>
+**Efficient and Secure Data Management for HPC and Cloud Computing**  
+*CENTRA 8 Event*  
+Hsinchu, Taiwan. 2025
 
-<span style="color:#063c72">**Distributed Storage Research.**</span><br>
-alk given during a faculty research visit at Florida International University (FIU).<br>
-Miami, USA. 2024.<br>
+**Distributed Systems Research**  
+*Cloud Computing Services and Applications Course, MEI MSc*  
+University of Minho, Braga, Portugal. 2024
 
-<span style="color:#063c72">**Preservando a Privacidade da Computação e Outras Coisas.**</span><br>
-In Women in Engineering Celebration, Agrupamento de Escolas de Ponte da Barca.<br>
-Ponte da Barca, Portugal. 2024.<br>
+**Distributed Storage Research**  
+*Faculty Research Visit*  
+Florida International University (FIU), Miami, USA. 2024
 
-<span style="color:#063c72">**Privacy-Preserving and Distributed Machine Learning.**</span><br>
-In Women in Engineering Celebration, Agrupamento de Escolas de Ponte da Barca.<br>
-Ponte da Barca, Portugal. 2023.<br>
+**Preservando a Privacidade da Computação e Outras Coisas**  
+*Women in Engineering Celebration*  
+Agrupamento de Escolas de Ponte da Barca, Portugal. 2024
+
+**Privacy-Preserving and Distributed Machine Learning**  
+*Women in Engineering Celebration*  
+Agrupamento de Escolas de Ponte da Barca, Portugal. 2023  
 <a href="https://claudiavmbrito.github.io/files/presentations/fevereiro2023_secundario.pdf">
     <img src="https://img.shields.io/badge/-slides-white?style=plastic&logo=microsoft-powerpoint&logoColor=white&labelColor=lightgray" />
 </a>

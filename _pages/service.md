@@ -9,11 +9,10 @@ author_profile: true
 
 ### 2026
 
-* 32nd IEEE International Symposium on High-Performance Computer Architecture ([HPCA 2026](https://hpca-conf.org/))
+* 32nd IEEE International Symposium on High-Performance Computer Architecture ([HPCA 2026](https://hpca-conf.org/2026/))
 
 ### 2025
 
-* 32nd IEEE International Symposium on High-Performance Computer Architecture ([HPCA 2026](https://hpca-conf.org/))
 * 1st Workshop on Reliable Large-scale Data Management, co-located with IEEE SRDS ([W-RLDM 2025](https://rldm.invisiblelab.dev/))
 * 1st Workshop on Byzantine Fault Tolerance and Artificial Intelligence Systems, co-located with IEEE SRDS (BFT-AI 2025)
 * 5th International Conference on Electronic and Electrical Engineering and Intelligent Systems (ICE3IS'25)
@@ -28,13 +27,13 @@ author_profile: true
 
 ### 2026
 
-* 21st ACM European Conference on Computer Systems ([EuroSys'26](https://eurosys2026.org/))
+* 21st ACM European Conference on Computer Systems ([EuroSys'26](https://2026.eurosys.org/))
 
 ### 2025
 
-* 31st ACM Symposium on Operating Systems Principles ([SOSP '25](https://sosp2025.cs.cornell.edu/))
+* 31st ACM Symposium on Operating Systems Principles ([SOSP '25](https://sigops.org/s/conferences/sosp/2025/))
 * 19th USENIX Symposium on Operating Systems Design and Implementation ([OSDI'25](https://www.usenix.org/conference/osdi25))
-* 20th ACM European Conference on Computer Systems ([EuroSys'25](https://eurosys2025.org/))
+* 20th ACM European Conference on Computer Systems ([EuroSys'25](https://2025.eurosys.org/))
 * 24th International Conference on Distributed Applications and Interoperable Systems ([DAIS'25](https://www.discotec.org/2025/dais))
 
 ### 2023
@@ -48,7 +47,7 @@ author_profile: true
 
 ### 2025
 
-* 20th ACM European Conference on Computer Systems ([EuroSys'25](https://eurosys2025.org/))
+* 20th ACM European Conference on Computer Systems ([EuroSys'25](https://2025.eurosys.org/))
 
 ***
 
