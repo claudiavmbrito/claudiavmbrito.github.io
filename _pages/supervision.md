@@ -80,9 +80,7 @@ Completed MSc theses achieved an average grade of **18.5/20** (range: 17-20).
 
 ### 2025
 * **Augusto Campos, João Abreu and Tiago Silva.** *HPC Job-based Resources Monitoring System.* Co-advised with António Sousa and Tânia Esteves. University of Minho.
-
 * **Bruno Gião, Inês Castro, Paula Marques.** *eBPF checker explainer with LLMs.* co-advised with Tânia Esteves. University of Minho.
-
 * **Manuel Carvalho, Nuno Matos.** *Pipeline for the analysis of time series data based in AI models using distributed systems.* Co-advised with Fábio Coelho (under the ATE project), University of Minho.
 
 ### 2023
