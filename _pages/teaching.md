@@ -13,7 +13,7 @@ author_profile: true
 
 - **Invited Assistant Professor (25%).** 
   Lecturer of the Cloud Computing Applications and Services  
-  *First year of the Informatics Engineering (MEI) MSc course, U. Minho.*
+  *First year of the Cybersecurity (MEI) MSc course, U. Minho.*
 
 - **Invited Assistant Professor (25%).** 
   Lecturer of the Software Platforms  

@@ -77,7 +77,6 @@ Completed MSc theses achieved an average grade of **18.5/20** (range: 17-20).
 
 ## Research mentorship
 
-
 ### 2025
 * **Augusto Campos, João Abreu and Tiago Silva.** *HPC Job-based Resources Monitoring System.* Co-advised with António Sousa and Tânia Esteves. University of Minho.
 * **Bruno Gião, Inês Castro, Paula Marques.** *eBPF checker explainer with LLMs.* co-advised with Tânia Esteves. University of Minho.
