@@ -137,7 +137,7 @@ Peixoto, C., **Brito, C.**, Fontainhas, M., Peixoto, H., Machado, J., Abelha, A.
 **Exploiting Trusted Execution Environments and Distributed Computation for Genomic Association Tests**  
 **Brito, C.**, Ferreira, P., Paulo, J.  
 *IEEE Journal of Biomedical and Health Informatics*  
-<a href="https://claudiavmbrito.github.io/files/gyosa/gyosa_jbhi.pdf">
+<a href="https://claudiavmbrito.github.io/files/gyosa/gyosa-jbhi.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
 </a>
 <a href="https://claudiavmbrito.github.io/files/gyosa/jbhi/bibtex.bib">
