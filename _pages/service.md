@@ -9,12 +9,13 @@ author_profile: true
 
 ### 2026
 
+* The 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing ([CCGrid 2026](https://ccgrid2026.org/))
+* The 25th International Conference on Distributed Applications and Interoperable Systems. ([DAIS'26](https://www.discotec.org/2026/dais))
 * 32nd IEEE International Symposium on High-Performance Computer Architecture ([HPCA 2026](https://hpca-conf.org/2026/))
 
 ### 2025
 
 * 1st Workshop on Reliable Large-scale Data Management, co-located with IEEE SRDS ([W-RLDM 2025](https://rldm.invisiblelab.dev/))
-* 1st Workshop on Byzantine Fault Tolerance and Artificial Intelligence Systems, co-located with IEEE SRDS (BFT-AI 2025)
 * 5th International Conference on Electronic and Electrical Engineering and Intelligent Systems (ICE3IS'25)
 
 ### 2024
@@ -53,9 +54,18 @@ author_profile: true
 
 ## Journal Reviewer
 
+### 2026
+
+* Transactions on Privacy and Security (ACM)
+* Science of computer programming (Elsevier)
+
 ### 2025
 
+* Transactions on Dependable and Secure Computing (IEEE)
 * Progress in Artificial Intelligence (Springer Nature)
+* Sustainable Computing: Informatics and Systems (Elsevier)
+* Science of computer programming (Elsevier)
+* Frontiers in Plant Science (Frontiers)
 * Polytechnic Journal
 
 ### 2024
