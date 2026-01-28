@@ -7,7 +7,7 @@ author_profile: true
 
 ## Overview
 
-I have supervised **1 PhD student** and **28 MSc students** (15 completed, 13 ongoing), along with research mentorship projects.  
+I have supervised **1 PhD student** and **28 MSc students** (14 completed, 12 ongoing), along with research mentorship projects.  
 Completed MSc theses achieved an average grade of **18.5/20** (range: 17-20).
 
 ***
@@ -27,11 +27,13 @@ Completed MSc theses achieved an average grade of **18.5/20** (range: 17-20).
 * **João Abreu.** *Intelligent Resource Allocation in HPC.* Co-advised with António Sousa. University of Minho.
 * **Paulo Pinto.** *Data Optimization Mechanisms in Intrusion Detection Systems.* Co-advised with João Marco. University of Minho. 
 * **João Cardoso.** *Benchmarking of LLMs Inference in Medical Diagnosis.* Co-advised with António Sousa and Alícia Oliveira. University of Minho.
+* **Beatriz Macedo.** *Medical Q&A and Treatment Recommendation Using LLMs in HPC Environments.* Co-advised with António Sousa and Alícia Oliveira. University of Minho.
+* **André Sousa.** *Pipeline for Medical Image Anonymisation in HPC environments.* Co-advised with António Sousa and Beatriz Cepa. University of Minho.
 
 ***
 ### 2024/2025
 
-* **Ana Sousa.** *Classifying Alzheimer’s Disease through Federated Learning and 3D Brain MRIs.* Co-advised with António Sousa, Beatriz Cepa and Alícia Oliveira. University of Minho. 
+* **Ana Sousa.** *Classifying Alzheimer’s Disease through Federated Learning and 3D Brain MRIs.* Co-advised with António Sousa, Beatriz Cepa and Alícia Oliveira. University of Minho. *Finished: 18/20*
 * **Ricardo Araújo.** *Neuroimaging analysis pipeline leveraging open-source frameworks in distributed environments.* Co-advised with António Sousa and Beatriz Cepa. University of Minho.   
 * **Alexandre Fernandes.** *Energy Monitoring System for Large-Scale Infrastructures.* Co-advised with Ricardo Macedo and António Sousa, University of Minho. *Finished: 19/20*
 * **Carlos Machado.** *An NVMe-oriented I/O scheduler for reducing energy consumption.* Co-advised with João Paulo and Ricardo Macedo, University of Minho.
