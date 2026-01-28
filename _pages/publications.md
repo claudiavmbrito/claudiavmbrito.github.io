@@ -7,6 +7,13 @@ author_profile: true
 
 ## Conference Papers
 
+### 2026
+
+**Holpaca: Holistic and Adaptable Cache Management for Shared Environments**  
+Peixoto, J., Gonzalez, A., Bhimani, J., Rangaswami, R., **Brito, C.**, Paulo, J., Macedo, R.  
+*17th ACM/SPEC International Conference on Performance Engineering (ICPE), 2026 (just accepted)*
+
+
 ### 2025
 
 **Idiosyncrasies of Programmable Caching Engines**  
