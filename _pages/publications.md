@@ -11,7 +11,10 @@ author_profile: true
 
 **Holpaca: Holistic and Adaptable Cache Management for Shared Environments**  
 Peixoto, J., Gonzalez, A., Bhimani, J., Rangaswami, R., **Brito, C.**, Paulo, J., Macedo, R.  
-*17th ACM/SPEC International Conference on Performance Engineering (ICPE), 2026 (just accepted)*
+*17th ACM/SPEC International Conference on Performance Engineering (ICPE), 2026*  
+<a href="https://claudiavmbrito.github.io/files/cachelib/icpe-holpaca-peixoto.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
 
 
 ### 2025
