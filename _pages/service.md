@@ -9,6 +9,7 @@ author_profile: true
 
 ### 2026
 
+* The 4th Workshop on AI For Systems (AI4Sys 2026), co-located with HPDC ([AI4Sys 2026](https://ai4sys.github.io/))
 * The 32nd International Conference on Parallel and Distributed Computing (Euro-Par 2024), Posters track ([Euro-Par 2026](https://2026.euro-par.org/))
 * The 39th IEEE International Symposium on Computer-Based Medical Systems ([CBMS 2026](https://2026.cbms-conference.org/))
 * The 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing ([CCGrid 2026](https://ccgrid2026.org/))
