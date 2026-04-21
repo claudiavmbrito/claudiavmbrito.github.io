@@ -9,6 +9,8 @@ author_profile: true
 
 ### 2026
 
+* The 32nd International Conference on Parallel and Distributed Computing (Euro-Par 2024), Posters track ([Euro-Par 2026](https://2026.euro-par.org/))
+* The 39th IEEE International Symposium on Computer-Based Medical Systems ([CBMS 2026](https://2026.cbms-conference.org/))
 * The 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing ([CCGrid 2026](https://ccgrid2026.org/))
 * The 25th International Conference on Distributed Applications and Interoperable Systems. ([DAIS'26](https://www.discotec.org/2026/dais))
 * 32nd IEEE International Symposium on High-Performance Computer Architecture ([HPCA 2026](https://hpca-conf.org/2026/))
@@ -28,6 +30,8 @@ author_profile: true
 
 ### 2026
 
+* 22nd USENIX Symposium on Operating Systems Design and Implementation ([OSDI'26](https://www.usenix.org/conference/osdi26))
+* The 1st ACM Conference on AI and Agentic Systems (ACM CAIS 2026) ([CAIS'26](https://www.caisconf.org/))
 * 21st ACM European Conference on Computer Systems ([EuroSys'26](https://2026.eurosys.org/))
 
 ### 2025
@@ -56,6 +60,7 @@ author_profile: true
 
 ### 2026
 
+* Security and Privacy (Wiley)
 * Transactions on Privacy and Security (ACM)
 * Science of computer programming (Elsevier)
 
