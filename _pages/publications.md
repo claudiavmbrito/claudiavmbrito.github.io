@@ -10,7 +10,7 @@ author_profile: true
 ### 2026
 
 **OHANA: Optimizing Heterogeneous Multi-Artifact Correction in Neuroimaging Analysis**  
-Oliveira, A., Cepa, B., Sousa, A. and **Brito, C.**
+Oliveira, A., Cepa, B., Sousa, A. and **Brito, C.**  
 *Just accepted at The 39th IEEE International Symposium on Computer-Based Medical Systems, IEEE CBMS 2026*
 
 **Holpaca: Holistic and Adaptable Cache Management for Shared Environments**  
