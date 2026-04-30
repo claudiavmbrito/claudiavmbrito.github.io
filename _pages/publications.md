@@ -19,6 +19,12 @@ Peixoto, J., Gonzalez, A., Bhimani, J., Rangaswami, R., **Brito, C.**, Paulo, J.
 <a href="https://claudiavmbrito.github.io/files/cachelib/icpe-holpaca-peixoto.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
 </a>
+<a href="https://claudiavmbrito.github.io/files/cachelib/bibtex.bib">
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
+</a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3777884.3797013">
+  <img src="https://img.shields.io/badge/doi-10.1145%2F3777884.3797013-lightgrey?style=plastic" />
+</a>
 
 
 ### 2025
@@ -28,6 +34,9 @@ Peixoto, J., Gonzalez, A., Bhimani, J., Rangaswami, R., **Brito, C.**, Paulo, J.
 *IEEE International Symposium on Reliable Distributed Systems @ Workshop on Reliable Large-scale Data Management, 2025*  
 <a href="https://claudiavmbrito.github.io/files/cachelib/wrldm-cachelib-peixoto.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
+<a href="https://doi.org/10.48550/arXiv.2603.14357">
+  <img src="https://img.shields.io/badge/doi-10.48550%2FarXiv.2603.14357-lightgrey?style=plastic" />
 </a>
 
 **One Does Not Simply Cache: A Study on Distributed Caches for AI Training in HPC**  

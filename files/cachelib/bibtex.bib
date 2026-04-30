@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3777884.3797013,
+author = {Peixoto, Jos\'{e} Pedro and Gonzalez, Alexis and Bhimani, Janki and Rangaswami, Raju and Brito, Cl\'{a}udia and Paulo, Jo\~{a}o and Macedo, Ricardo},
+title = {Holpaca: Holistic and Adaptable Cache Management for Shared Environments},
+year = {2026},
+isbn = {9798400723254},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3777884.3797013},
+doi = {10.1145/3777884.3797013},
+abstract = {Modern data-intensive systems rely on in-memory caching to achieve high throughput and low latency. CacheLib, Meta's general-purpose caching engine, provides high performance and flexibility for building specialized caches for a variety of applications. However, despite its wide adoption in large-scale infrastructures, CacheLib's data management mechanisms exhibit inefficiencies in shared environments. Particularly, its static and uncoordinated memory allocation leads to fragmented resource usage, unfair memory distribution, and degraded performance across tenants and instances. We present Holpaca, a general-purpose caching middleware that enables holistic and adaptable orchestration of shared caching environments. Holpaca introduces a shim data layer co-located with each cache instance and a centralized orchestrator with system-wide visibility, enabling global memory management and per-tenant QoS policies. Using production traces from Twitter, results show that, by continuously readjusting memory allocations based on workload dynamics, Holpaca achieves up to 3× higher throughput in multi-tenant and 2.2\texttimes{} improvement in multi-instance settings over CacheLib's rigid built-in mechanisms.},
+booktitle = {Proceedings of the 17th ACM/SPEC International Conference on Performance Engineering},
+pages = {378–390},
+numpages = {13},
+keywords = {caching, memory systems, software-defined storage, miss-ratio curves, quality-of-service},
+location = {Italy},
+series = {ICPE '26}
+}
