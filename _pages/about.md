@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 excerpt: "About me"
+description: "Cláudia Brito — Assistant Researcher in AI for Systems and Systems for AI at INESC TEC / HASLab and Invited Assistant Professor at the University of Minho."
 author_profile: true
 redirect_from: 
   - /about/

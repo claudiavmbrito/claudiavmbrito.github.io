@@ -41,3 +41,10 @@ Temporary Items
 vendor/
 
 .jekyll-metadata
+
+# Ruby / Jekyll
+Gemfile.lock
+.bundle/
+
+# Stray macOS clippings
+*.textClipping
