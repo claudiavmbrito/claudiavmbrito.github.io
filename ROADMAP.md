@@ -52,25 +52,36 @@ Work top to bottom. Each item is independently shippable.
 **Verified:** `bundle install` + `jekyll build` run clean (Ruby 3.4 via Homebrew);
 all nav pages + poster pages return HTTP 200 on a local serve.
 
-## Phase 3 — Light visual rebrand
+## Phase 3 — Light visual rebrand ✅ DONE
 
 Goal: stop looking like the default Minimal Mistakes gray template.
 
-- [ ] **Pick an accent color** to replace `$primary-color: #7a8288` (gray) and the
-  generic `$info-color: #063c72`. Edit `_sass/_variables.scss:62` (+ links/buttons).
-  Suggest one accent tied to identity (a teal/indigo/burgundy), used for links,
-  buttons, and section rules.
-- [ ] **Typography pass** in `_sass/_variables.scss:16-33` — choose a distinctive
-  heading font (e.g. a Google-hosted serif/grotesk) while keeping a clean body font.
-  Wire the font import in `_includes/head.html`.
-- [ ] **Dark mode toggle** — `_sass/_themes.scss` already exists; add a light/dark
-  toggle in the masthead and a `prefers-color-scheme` default.
-- [ ] **Homepage polish** (`_pages/about.md`): add a short **"News / Recent"** block
-  at the top (3–5 dated bullets: papers accepted, talks, awards) — standard for
-  active researchers and keeps the landing page fresh.
-- [ ] **Author sidebar** (`_includes/author-profile.html`) — tighten bio, confirm
-  avatar + social icons look right with the new accent color.
-- [ ] **Favicon / touch icons** — confirm a real favicon is set (not the template default).
+- [x] **Accent color → petrol teal `#0d6e6e`** (hover `#0a5252`). Added `$accent-color`
+  /`$accent-color-hover` in `_sass/_variables.scss`; `$primary-color`, `$link-color`,
+  masthead links and `$purple-color` (theme var) all derive from it.
+- [x] **Typography** — `$header-font-family` set to `"Roboto Slab"` (slab serif) for
+  headings, body stays system sans. Roboto Slab was already being loaded, so no new
+  font import needed.
+- [x] **Dark mode (full)** — enabled the previously-commented dark-mode block in
+  `_includes/head.html`; **fixed the missing `highlight_theme_light` element** (was
+  throwing a JS error); added a sun/moon **toggle button** (`#light-toggle`) to the
+  masthead; wrote core dark overrides in `_sass/_themes.scss` (body/masthead/nav/
+  links/sidebar/footer/code/tables/notices) since the base theme uses fixed colors.
+  Persists via `localStorage` and respects `prefers-color-scheme`.
+  *Verified in a real Chromium browser:* light `#fff`/teal, dark `#1c1c1d`/`#36c5c0`,
+  toggle + persistence across pages all working.
+- [x] **Homepage News block** — added a dated `## News` section to `_pages/about.md`
+  (4 recent items: OHANA @ CBMS 2026, Holpaca @ ICPE 2026, CENTRA 8 talk, 2024 role).
+- [x] **Author sidebar** — renders cleanly with the teal accent in both themes
+  (avatar, name, location, social icons); dark-mode colors handled in `_themes.scss`.
+- [x] **Favicon / touch icons** — the template linked 14 icon files that **did not
+  exist** (all 404). Generated a teal **"CB" monogram** favicon set with ImageMagick
+  (favicon-16/32/96, apple-touch-icon ×9, android-chrome-192, multi-res favicon.ico)
+  into `images/`; removed the broken `shortcut icon` link in `head.html`; set mobile
+  `theme-color` / tile color to teal.
+
+**Verified:** clean `jekyll build`; all nav pages + favicon assets return HTTP 200;
+homepage + content pages screenshotted in both light and dark with good contrast.
 
 ## Phase 4 — Content workflow & polish
 

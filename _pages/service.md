@@ -57,6 +57,18 @@ author_profile: true
 
 ***
 
+## Thesis Committees
+
+### 2026
+
+* **BSc (TCC) — Elias de Jesus Miranda.** *Controle Automatizado de Recursos Computacionais em Cluster com ESP32 e Naive Bayes para Melhorar Eficiência Energética.* Committee member (examiner). Universidade Federal de Lavras (UFLA), Brazil.
+
+### 2024
+
+* **MSc — Ana Catarina Gomes.** Examiner (*arguente*). MSc in Data Science, Faculty of Sciences, University of Porto (FCUP).
+
+***
+
 ## Journal Reviewer
 
 ### 2026
@@ -85,6 +97,14 @@ author_profile: true
 ### 2021
 
 * Progress in Artificial Intelligence (Springer Nature)
+
+***
+
+## Outreach & Media
+
+### 2026
+
+* **Opinion article** — *As Fábricas de IA da Europa: supercomputadores de milhares de milhões à procura de quem os saiba usar.* [ECO](https://eco.sapo.pt/opiniao/as-fabricas-de-ia-da-europa-supercomputadores-de-milhares-de-milhoes-a-procura-de-quem-os-saiba-usar/), 29 April 2026.
 
 ***
 

@@ -30,22 +30,26 @@
 
 
 <!-- Styles -->
-{% if site.icon.size <= 4 %}
+{% if site.icon %}
+  {% if site.icon.size <= 4 %}
 <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{ site.icon }}</text></svg>">
-{% elsif site.icon != blank %}
+  {% else %}
 <link rel="shortcut icon" href="{{ site.icon | prepend: '/assets/img/' | relative_url | bust_file_cache}}"/>
+  {% endif %}
 {% endif %}
+<!-- favicons are defined in _includes/head/custom.html -->
 <!-- <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url | bust_css_cache }}"> -->
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
 <!-- Dark Mode -->
-<!-- {% if site.enable_darkmode %}
+<!-- Syntax highlight themes (toggled by theme.js). Both must exist before theme.js runs. -->
+<link rel="stylesheet" href="{{ '/assets/css/jekyll-pygments-themes-github.css' | relative_url | bust_file_cache }}" media="" id="highlight_theme_light" />
 <link rel="stylesheet" href="{{ '/assets/css/jekyll-pygments-themes-native.css' | relative_url | bust_file_cache }}" media="none" id="highlight_theme_dark" />
+<!-- Must run in <head> (before paint) to avoid a light/dark flash. -->
 <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
 <script src="{{ '/assets/js/dark_mode.js' | relative_url | bust_file_cache }}"></script>
-{% endif %} -->
 
 
 

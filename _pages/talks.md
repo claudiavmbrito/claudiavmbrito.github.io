@@ -56,6 +56,14 @@ Rennes, France. 2022
 
 ## Invited Talks and Presentations
 
+**Optimizing Energy Comsumption in Large-Scale Al Training**
+*18th edition of the Santos Dumont Summer School*
+Laboratório Nacional de Computação Científica (Brasil) - Online. 2026
+
+**Performance and Sustainability Management in Modern Data Centers (PASM)**  
+*CENTRA 9 Event*  
+Thammasat University, Thailand. 2026
+
 **Efficient and Secure Data Management for HPC and Cloud Computing**  
 *CENTRA 8 Event*  
 Hsinchu, Taiwan. 2025

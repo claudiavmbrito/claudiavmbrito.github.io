@@ -7,8 +7,8 @@ author_profile: true
 
 ## Overview
 
-I have supervised **1 PhD student** and **28 MSc students** (14 completed, 12 ongoing), along with research mentorship projects.  
-Completed MSc theses achieved an average grade of **18.5/20** (range: 17-20).
+I have supervised **1 PhD student** and **28 MSc students** (16 completed, 10 ongoing), along with research mentorship projects.  
+
 
 ***
 
@@ -22,7 +22,7 @@ Completed MSc theses achieved an average grade of **18.5/20** (range: 17-20).
 ### 2025/2026
 
 * **Nuno Matos.** *Adaptable I/O library for Medical Imaging Workloads.* Co-advised with João Paulo. University of Minho.
-* **Manuel Carvalho.** I/O optimzations for Medical Imaging Workloads. Co-advised with João Paulo. University of Minho.
+* **Manuel Carvalho.** *I/O optimizations for Medical Imaging Workloads.* Co-advised with João Paulo. University of Minho.
 * **Augusto Campos.** *User-focused HPC Job Monitoring and Analysis System.* Co-advised with António Sousa. University of Minho.
 * **João Abreu.** *Intelligent Resource Allocation in HPC.* Co-advised with António Sousa. University of Minho.
 * **Paulo Pinto.** *Data Optimization Mechanisms in Intrusion Detection Systems.* Co-advised with João Marco. University of Minho. 
@@ -38,8 +38,8 @@ Completed MSc theses achieved an average grade of **18.5/20** (range: 17-20).
 * **Alexandre Fernandes.** *Energy Monitoring System for Large-Scale Infrastructures.* Co-advised with Ricardo Macedo and António Sousa, University of Minho. *Finished: 19/20*
 * **Carlos Machado.** *An NVMe-oriented I/O scheduler for reducing energy consumption.* Co-advised with João Paulo and Ricardo Macedo, University of Minho.
 * **Miguel Braga.** *GPU Energy Control for LLMs.* Co-advised with Ricardo Macedo and António Sousa, University of Minho. *Finished: 19/20*
-* **Gonçalo Sousa.** *Fault-Tolerant storage solutions for AI training in HPC.* Co-advised with João Paulo, University of Minho.
-* **André Lucena.** *Storage Optimizations for large-scale AI training in HPC.* Co-advised with João Paulo, University of Minho.
+* **Gonçalo Sousa.** *Fault-Tolerant storage solutions for AI training in HPC.* Co-advised with João Paulo, University of Minho. *Finished: 18/20*
+* **André Lucena.** *Storage Optimizations for large-scale AI training in HPC.* Co-advised with João Paulo, University of Minho. *Finished: 18/20*
         
 
 ***

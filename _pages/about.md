@@ -21,6 +21,16 @@ In detail, my research interests have been shifting towards the following topics
 
 ***
 
+## News
+
+* **Apr 2026** — I wrote an opinion piece for [ECO](https://eco.sapo.pt/opiniao/as-fabricas-de-ia-da-europa-supercomputadores-de-milhares-de-milhoes-a-procura-de-quem-os-saiba-usar/) on Europe's AI factories and the talent needed to run them.
+* **Jun 2026** — Our paper *OHANA: Optimizing Heterogeneous Multi-Artifact Correction in Neuroimaging Analysis* was presented at IEEE CBMS 2026.
+* **May 2026** — *Holpaca: Holistic and Adaptable Cache Management for Shared Environments* was presented at ACM/SPEC ICPE 2026.
+* **2025** — Invited talk *Efficient and Secure Data Management for HPC and Cloud Computing* at the CENTRA 8 event in Hsinchu, Taiwan.
+* **2024** — Joined HASLab, INESC TEC as an Assistant Researcher and completed my PhD at the University of Minho.
+
+***
+
 ## Experience
 
 **Assistant Researcher, HASLab INESC TEC**  

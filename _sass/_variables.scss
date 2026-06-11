@@ -29,7 +29,7 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 $global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
+$header-font-family         : "Roboto Slab", $serif;
 $caption-font-family        : $serif;
 
 /* type scale */
@@ -59,12 +59,14 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
-$primary-color              : #7a8288;
+$accent-color               : #0d6e6e; // petrol teal (site accent)
+$accent-color-hover         : #0a5252; // darker teal for hover/active
+$primary-color              : $accent-color;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
 $info-color                 : #063c72;
-$purple-color:              #B509AC !default;
+$purple-color:              $accent-color !default;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -89,8 +91,8 @@ $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
+$link-color                 : $accent-color;
+$link-color-hover           : $accent-color-hover;
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
