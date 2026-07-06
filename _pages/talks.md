@@ -33,6 +33,10 @@ Rennes, France. 2022
     <img src="https://img.shields.io/badge/-slides-white?style=plastic&logo=microsoft-powerpoint&logoColor=white&labelColor=lightgray" />
 </a>
 
+**Introduction to Private and Secure Machine Learning**  
+*Internal Seminar, Ubiwhere*  
+Online. 2021
+
 ***
 
 ## Posters
@@ -56,9 +60,9 @@ Rennes, France. 2022
 
 ## Invited Talks and Presentations
 
-**Optimizing Energy Comsumption in Large-Scale Al Training**
-*18th edition of the Santos Dumont Summer School*
-Laboratório Nacional de Computação Científica (Brasil) - Online. 2026
+**Optimizing Energy Consumption in Large-Scale AI Training**  
+*18th edition of the Santos Dumont Summer School*  
+Laboratório Nacional de Computação Científica (Brasil) — Online. 2026
 
 **Performance and Sustainability Management in Modern Data Centers (PASM)**  
 *CENTRA 9 Event*  
@@ -67,6 +71,10 @@ Thammasat University, Thailand. 2026
 **Efficient and Secure Data Management for HPC and Cloud Computing**  
 *CENTRA 8 Event*  
 Hsinchu, Taiwan. 2025
+
+**Your AI Is Not a Wizard: The Pitfalls of Non-AI Researchers When Dealing with AI**  
+*HASLab DS Talks, INESC TEC*  
+Braga, Portugal. 2025
 
 **Distributed Systems Research**  
 *Cloud Computing Services and Applications Course, MEI MSc*  

@@ -9,10 +9,50 @@ author_profile: true
 
 ### BringTrust: Strengthening CI/CD Pipeline Cybersecurity and Safeguarding the Intellectual Property
 
-**Role:** Project Co-coordinator  
-**Period:** 2024 -- Present  
+**Role:** Co-Principal Investigator (INESC TEC side)  
+**Period:** 2025 -- Present  
 **Description:** Research on enhancing the security of CI/CD pipelines, focusing on protecting intellectual property and ensuring the integrity of software development processes.  
 **Partners:** INESC TEC, Scalabit, UAlg
+
+### Rescueware: Intelligent and Self-configurable Cybersecurity and Data Recovery for Ransomware Resilience
+
+**Role:** Researcher  
+**Period:** 2026 -- Present  
+**Description:** An AI-driven system for cybersecurity and data recovery for ransomware resilience, covering AI for cybersecurity configuration of storage systems and AI for efficient data recovery.  
+**Partners:** INESC TEC, Invisible Lab, ULSAM
+
+### INOCULUM: Boosting the Immunity of Storage Systems Against Ransomware
+
+**Role:** Researcher  
+**Period:** 2026 -- Present  
+**Description:** A novel storage system that is highly resilient to ransomware attacks while guaranteeing the integrity and availability of data, through AI-based systems optimization and cybersecurity configuration.  
+**Partners:** INESC TEC
+
+### GenSEMICON
+
+**Role:** Researcher  
+**Period:** 2026 -- Present  
+**Partners:** INESC TEC
+
+### EuroCC3
+
+**Role:** Researcher  
+**Period:** 2026 -- Present  
+**Partners:** INESC TEC
+
+### PATA: Power- and Thermal-aware Management for Energy-Efficient AI Training in HPC Infrastructures
+
+**Role:** Researcher (co-management)  
+**Period:** 2025 -- Present  
+**Description:** A power- and thermal-aware management system for energy-efficient AI training in HPC infrastructures, tailored to the specific AI workload.  
+**Partners:** INESC TEC, TACC
+
+### WISE: Workload-Intelligent Data Storage for Next-Generation Advanced Computing Centers
+
+**Role:** Researcher  
+**Period:** 2025 -- Present  
+**Description:** Understanding the workload characteristics of HPC applications to develop an intelligent, workload-aware storage system, including AI-driven storage management and workload classification and prediction.  
+**Partners:** INESC TEC, TACC
 
 ### DisaggregatedHPC: Towards energy-efficient, software-managed resource disaggregation in HPC infrastructures
 
@@ -37,19 +77,6 @@ author_profile: true
 **Partners:** INESC TEC, AIST, FIU  
 **Website:** [https://www.globalcentra.org/projects/#pasm](https://www.globalcentra.org/projects/#pasm)
 
-### GreenDat.AI: Energy-efficient AI-ready Data Spaces
-
-**Role:** Researcher  
-**Period:** 2023 -- Present  
-**Description:** Research and development of energy-efficient monitoring solutions for AI workloads, focusing on reducing the environmental impact of AI models. Integration with data spaces to enable secure and efficient data sharing.  
-**Website:** [https://greendatai.eu/](https://greendatai.eu/)
-
-### ATE: Energy Transition Alliance
-
-**Role:** Researcher  
-**Period:** 2023 -- Present  
-**Website:** [https://www.inesctec.pt/pt/projetos/ate](https://www.inesctec.pt/pt/projetos/ate)
-
 ### ESDM: Efficient and Secure Data Management for HPC and Cloud Computing
 
 **Role:** Researcher  
@@ -60,6 +87,19 @@ author_profile: true
 ***
 
 ## Completed Projects
+
+### GreenDat.AI: Energy-efficient AI-ready Data Spaces
+
+**Role:** Researcher  
+**Period:** 2023 -- 2025  
+**Description:** Research and development of energy-efficient monitoring solutions for AI workloads, focusing on reducing the environmental impact of AI models. Integration with data spaces to enable secure and efficient data sharing.  
+**Website:** [https://greendatai.eu/](https://greendatai.eu/)
+
+### ATE: Energy Transition Alliance
+
+**Role:** Researcher  
+**Period:** 2023 -- 2026  
+**Website:** [https://www.inesctec.pt/pt/projetos/ate](https://www.inesctec.pt/pt/projetos/ate)
 
 ### AIDA: Adaptive, Intelligent and Distributed Assurance Platform
 

@@ -65,7 +65,7 @@ author_profile: true
 
 ### 2024
 
-* **MSc — Ana Catarina Gomes.** Examiner (*arguente*). MSc in Data Science, Faculty of Sciences, University of Porto (FCUP).
+* **MSc — Ana Catarina Gomes.** *Active Inference against Federated Learning: Attacks and Solutions.* Examiner (*arguente*). MSc in Data Science, Faculty of Sciences, University of Porto (FCUP). Final grade: 20/20.
 
 ***
 
@@ -97,6 +97,14 @@ author_profile: true
 ### 2021
 
 * Progress in Artificial Intelligence (Springer Nature)
+
+***
+
+## External Reviewer
+
+### 2025
+
+* IEEE/ACM International Conference on Utility and Cloud Computing ([UCC 2025](https://www.ucc-conference.org/))
 
 ***
 

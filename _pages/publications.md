@@ -29,6 +29,10 @@ Peixoto, J., Gonzalez, A., Bhimani, J., Rangaswami, R., **Brito, C.**, Paulo, J.
 
 ### 2025
 
+**Multi-Partner Project: Green.Dat.AI — A Data Spaces Architecture for Enhancing Green AI Services**  
+Chrysakis, I., Agorogiannis, E., Tsampanaki, N., et al. (including **Brito, C.**)  
+*Design, Automation & Test in Europe Conference (DATE), 2025*
+
 **Idiosyncrasies of Programmable Caching Engines**  
 Peixoto, J., Gonzalez, A., Bhimani, J., Rangaswami, R., **Brito, C.**, Paulo, J., Macedo, R.  
 *IEEE International Symposium on Reliable Distributed Systems @ Workshop on Reliable Large-scale Data Management, 2025*  
