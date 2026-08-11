@@ -13,6 +13,10 @@ author_profile: true
 Oliveira, A., Cepa, B., Sousa, A. and **Brito, C.**  
 *The 39th IEEE International Symposium on Computer-Based Medical Systems, IEEE CBMS 2026*
 
+**It Works on My Machine: A Systematization of Knowledge on Reproducibility and Replicability in ML-Based Ransomware Detection**  
+Pereira, B., Cepa, B., **Brito, C.**, Silva, J. M., Rimmer, V., Paulo, J., Esteves, T.  
+*IEEE European Symposium on Security and Privacy Workshops @ 5th Workshop on Rethinking Malware Analysis (WoRMA), 2026*
+
 **Holpaca: Holistic and Adaptable Cache Management for Shared Environments**  
 Peixoto, J., Gonzalez, A., Bhimani, J., Rangaswami, R., **Brito, C.**, Paulo, J., Macedo, R.  
 *17th ACM/SPEC International Conference on Performance Engineering (ICPE), 2026*  
@@ -158,6 +162,15 @@ Peixoto, C., **Brito, C.**, Fontainhas, M., Peixoto, H., Machado, J., Abelha, A.
 
 ***
 ## Journal Papers
+
+### 2026
+
+**Fragment: Efficient DNN Checkpoint with Relaxed Model Consistency**  
+Saha, M., Wu, Y., **Brito, C.**, Rangaswami, R., Paulo, J., Macedo, R., Bhimani, J.  
+*ACM Transactions on Architecture and Code Optimization*  
+<a href="https://doi.org/10.1145/3830082">
+  <img src="https://img.shields.io/badge/doi-10.1145%2F3830082-lightgrey?style=plastic" />
+</a>
 
 ### 2025
 
