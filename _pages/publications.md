@@ -15,7 +15,13 @@ Oliveira, A., Cepa, B., Sousa, A. and **Brito, C.**
 
 **It Works on My Machine: A Systematization of Knowledge on Reproducibility and Replicability in ML-Based Ransomware Detection**  
 Pereira, B., Cepa, B., **Brito, C.**, Silva, J. M., Rimmer, V., Paulo, J., Esteves, T.  
-*IEEE European Symposium on Security and Privacy Workshops @ 5th Workshop on Rethinking Malware Analysis (WoRMA), 2026*
+*IEEE European Symposium on Security and Privacy Workshops @ 5th Workshop on Rethinking Malware Analysis (WoRMA), 2026*  
+<a href="https://claudiavmbrito.github.io/files/ransom/itworksonmymachine-worma26-brunopereira.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
+<a href="https://doi.org/10.1109/EuroSPW72509.2026.00032">
+  <img src="https://img.shields.io/badge/doi-10.1109%2FEuroSPW72509.2026.00032-lightgrey?style=plastic" />
+</a>
 
 **Holpaca: Holistic and Adaptable Cache Management for Shared Environments**  
 Peixoto, J., Gonzalez, A., Bhimani, J., Rangaswami, R., **Brito, C.**, Paulo, J., Macedo, R.  

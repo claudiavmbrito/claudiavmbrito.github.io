@@ -7,14 +7,19 @@ author_profile: true
 
 ## Overview
 
-I have supervised **1 PhD student** and **28 MSc students** (16 completed, 10 ongoing), along with research mentorship projects.  
+I have supervised **2 PhD students** and **28 MSc students** (16 completed, 10 ongoing), along with research mentorship projects.  
 
 
 ***
 
 ## PhD theses
 
+### 2026
+
+* **Gonçalo Sousa.** *AI for Systems and Systems for AI* Supervised with João Paulo. University of Minho. (ongoing)
+
 ### 2025
+
 * **Alícia Oliveira.** *A systems perspective on LLM optimizations.* Supervised with António Sousa. University of Minho. (ongoing)
 
 ## MSc theses

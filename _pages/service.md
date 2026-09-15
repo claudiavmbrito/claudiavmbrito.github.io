@@ -29,8 +29,15 @@ author_profile: true
 
 ## Artifact Evaluation Committee
 
+### 2027
+
+* USENIX Annual Technical Conference ([ATC'27](https://www.usenix.org/conferences/byname/131))
+* 32nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems ([ASPLOS'27](https://www.asplos-conference.org/asplos2027/))
+* 24th USENIX Symposium on Networked Systems Design and Implementation ([NSDI'27](https://www.usenix.org/conference/nsdi27))
+
 ### 2026
 
+* 32nd ACM Symposium on Operating Systems Principles ([SOSP '26](https://sigops.org/s/conferences/sosp/2026/))
 * 22nd USENIX Symposium on Operating Systems Design and Implementation ([OSDI'26](https://www.usenix.org/conference/osdi26))
 * The 1st ACM Conference on AI and Agentic Systems (ACM CAIS 2026) ([CAIS'26](https://www.caisconf.org/))
 * 21st ACM European Conference on Computer Systems ([EuroSys'26](https://2026.eurosys.org/))
