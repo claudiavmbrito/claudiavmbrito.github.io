@@ -9,14 +9,15 @@ author_profile: true
 
 ### 2026
 
+* International Women in HPC Workshop, co-located with SC26, Review Committee ([WHPC@SC26](https://womeninhpc.org/events/sc-2026-workshop))
+* 33rd IEEE International Conference on High Performance Computing, Data, and Analytics, AI track ([HiPC 2026](https://hipc.org/))
 * The 4th Workshop on AI For Systems (AI4Sys 2026), co-located with HPDC ([AI4Sys 2026](https://ai4sys.github.io/))
 * The 32nd International Conference on Parallel and Distributed Computing (Euro-Par 2024), Posters track ([Euro-Par 2026](https://2026.euro-par.org/))
 * The 39th IEEE International Symposium on Computer-Based Medical Systems ([CBMS 2026](https://2026.cbms-conference.org/))
 * The 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing ([CCGrid 2026](https://ccgrid2026.org/))
 * The 25th International Conference on Distributed Applications and Interoperable Systems. ([DAIS'26](https://www.discotec.org/2026/dais))
 * 32nd IEEE International Symposium on High-Performance Computer Architecture ([HPCA 2026](https://hpca-conf.org/2026/))
-* 33rd IEEE International Conference on High Performance Computing, Data, and Analytics, AI track ([HiPC 2026](https://hipc.org/))
-* International Women in HPC Workshop, co-located with SC26, Review Committee ([WHPC@SC26](https://womeninhpc.org/events/sc-2026-workshop))
+
 
 ### 2025
 
@@ -82,6 +83,8 @@ author_profile: true
 
 ### 2026
 
+* Sustainable Computing: Informatics and Systems (Elsevier)
+* JMIR Formative Research (JMIR Publications)
 * Security and Privacy (Wiley)
 * Transactions on Privacy and Security (ACM)
 * Science of computer programming (Elsevier)
