@@ -15,6 +15,8 @@ author_profile: true
 * The 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing ([CCGrid 2026](https://ccgrid2026.org/))
 * The 25th International Conference on Distributed Applications and Interoperable Systems. ([DAIS'26](https://www.discotec.org/2026/dais))
 * 32nd IEEE International Symposium on High-Performance Computer Architecture ([HPCA 2026](https://hpca-conf.org/2026/))
+* 33rd IEEE International Conference on High Performance Computing, Data, and Analytics, AI track ([HiPC 2026](https://hipc.org/))
+* International Women in HPC Workshop, co-located with SC26, Review Committee ([WHPC@SC26](https://womeninhpc.org/events/sc-2026-workshop))
 
 ### 2025
 
