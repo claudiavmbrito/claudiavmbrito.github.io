@@ -5,7 +5,20 @@ permalink: /service/
 author_profile: true
 ---
 
+## Organizing Committee
+
+### 2027
+
+* **Demo and Poster Co-Chair** — 15th IEEE International Conference on Cloud Engineering (IC2E 2027)
+
+***
+
 ## Program Committee Member
+
+### 2027
+
+* 18th ACM/SPEC International Conference on Performance Engineering ([ICPE 2027](https://icpe2027.spec.org/))
+* 27th International Conference on Distributed Applications and Interoperable Systems ([DAIS'27](https://www.discotec.org/2027/dais))
 
 ### 2026
 
@@ -41,7 +54,7 @@ author_profile: true
 ### 2026
 
 * 32nd ACM Symposium on Operating Systems Principles ([SOSP '26](https://sigops.org/s/conferences/sosp/2026/))
-* 22nd USENIX Symposium on Operating Systems Design and Implementation ([OSDI'26](https://www.usenix.org/conference/osdi26))
+* 20th USENIX Symposium on Operating Systems Design and Implementation ([OSDI'26](https://www.usenix.org/conference/osdi26))
 * The 1st ACM Conference on AI and Agentic Systems (ACM CAIS 2026) ([CAIS'26](https://www.caisconf.org/))
 * 21st ACM European Conference on Computer Systems ([EuroSys'26](https://2026.eurosys.org/))
 
