@@ -9,6 +9,10 @@ author_profile: true
 
 ### 2026
 
+**Per-Round Profiling of Energy, Carbon, and Communication in Federated Learning with EnerFL**  
+Araújo, T., **Brito, C.**, Navaux, P.  
+*19th IEEE/ACM International Conference on Utility and Cloud Computing (UCC), 2026*
+
 **OHANA: Optimizing Heterogeneous Multi-Artifact Correction in Neuroimaging Analysis**  
 Oliveira, A., Cepa, B., Sousa, A. and **Brito, C.**  
 *The 39th IEEE International Symposium on Computer-Based Medical Systems, IEEE CBMS 2026*

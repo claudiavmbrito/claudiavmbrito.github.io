@@ -22,6 +22,10 @@ Lyon, France. 2019
 
 ## Workshop and Webinar Talks
 
+**Can We Trust AI? Maybe We Don’t Have To: Designing AI-Aware Systems**  
+*Cybersecurity and AI Webinar, YEAR Network*  
+Online. 2026
+
 **Protecting the Security of the AIDA Platform and the Privacy of its Data**  
 *AIDA Project Webinar*  
 Online. 2022
@@ -74,7 +78,10 @@ Hsinchu, Taiwan. 2025
 
 **Your AI Is Not a Wizard: The Pitfalls of Non-AI Researchers When Dealing with AI**  
 *HASLab DS Talks, INESC TEC*  
-Braga, Portugal. 2025
+Braga, Portugal. 2025  
+<a href="https://claudiavmbrito.github.io/files/presentations/yourainotawizard-haslab-2025.pdf">
+    <img src="https://img.shields.io/badge/-slides-white?style=plastic&logo=microsoft-powerpoint&logoColor=white&labelColor=lightgray" />
+</a>
 
 **Distributed Systems Research**  
 *Cloud Computing Services and Applications Course, MEI MSc*  
