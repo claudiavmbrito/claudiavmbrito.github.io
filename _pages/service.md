@@ -138,6 +138,7 @@ author_profile: true
 ### 2026
 
 * **Opinion article** — *As Fábricas de IA da Europa: supercomputadores de milhares de milhões à procura de quem os saiba usar.* [ECO](https://eco.sapo.pt/opiniao/as-fabricas-de-ia-da-europa-supercomputadores-de-milhares-de-milhoes-a-procura-de-quem-os-saiba-usar/), 29 April 2026.
+* **Opinion article** — *Moltbook: an AI Chatbots’ Uprising.* [INESC TEC (Medium)](https://inesctec.medium.com/moltbook-an-ai-chatbots-uprising-bd3760390273), 19 February 2026.
 
 ***
 

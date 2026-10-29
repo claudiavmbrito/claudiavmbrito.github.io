@@ -15,7 +15,10 @@ Araújo, T., **Brito, C.**, Navaux, P.
 
 **OHANA: Optimizing Heterogeneous Multi-Artifact Correction in Neuroimaging Analysis**  
 Oliveira, A., Cepa, B., Sousa, A. and **Brito, C.**  
-*The 39th IEEE International Symposium on Computer-Based Medical Systems, IEEE CBMS 2026*
+*The 39th IEEE International Symposium on Computer-Based Medical Systems, IEEE CBMS 2026*  
+<a href="https://doi.org/10.1109/CBMS69103.2026.00142">
+  <img src="https://img.shields.io/badge/doi-10.1109%2FCBMS69103.2026.00142-lightgrey?style=plastic" />
+</a>
 
 **It Works on My Machine: A Systematization of Knowledge on Reproducibility and Replicability in ML-Based Ransomware Detection**  
 Pereira, B., Cepa, B., **Brito, C.**, Silva, J. M., Rimmer, V., Paulo, J., Esteves, T.  

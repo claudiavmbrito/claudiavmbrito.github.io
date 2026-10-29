@@ -24,7 +24,7 @@ Lyon, France. 2019
 
 **Can We Trust AI? Maybe We Don’t Have To: Designing AI-Aware Systems**  
 *Cybersecurity and AI Webinar, YEAR Network*  
-Online. 2026
+Online. 2026 — *to be presented*
 
 **Protecting the Security of the AIDA Platform and the Privacy of its Data**  
 *AIDA Project Webinar*  
