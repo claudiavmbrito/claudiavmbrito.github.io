@@ -1,0 +1,29 @@
+{%- assign pubs = site.data.publications -%}
+<p class="lede">{{ pubs.size }} entries, newest first. The same list, with citation counts, is on <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>
+<nav aria-label="Publication types">
+  <ul class="toc">
+    {%- for sec in page.sections -%}
+      {%- assign list = pubs | where: "type", sec.id -%}
+      {%- if list.size > 0 %}<li><a href="#{{ sec.id }}">{{ sec.title }} <span class="count">{{ list.size }}</span></a></li>{% endif -%}
+    {%- endfor -%}
+  </ul>
+</nav>
+{%- for sec in page.sections -%}
+  {%- assign list = pubs | where: "type", sec.id -%}
+  {%- if list.size > 0 %}
+<section aria-labelledby="{{ sec.id }}">
+  <h2 id="{{ sec.id }}">{{ sec.title }}</h2>
+  {%- assign years = list | group_by: "year" -%}
+  {%- for y in years %}
+  <div class="year-group">
+    <h3 class="year">{{ y.name }}</h3>
+    <ol class="pubs">
+      {%- for p in y.items -%}
+        {% include pub.html pub=p %}
+      {%- endfor -%}
+    </ol>
+  </div>
+  {%- endfor %}
+</section>
+  {%- endif -%}
+{%- endfor -%}

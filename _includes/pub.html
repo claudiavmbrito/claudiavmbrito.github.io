@@ -1,0 +1,27 @@
+{%- assign p = include.pub -%}
+{%- capture yr %}{{ p.year }}{% endcapture -%}
+<li class="pub">
+  <div class="abbr"><span>{{ p.abbr }}</span></div>
+  <div class="pub-body">
+    <h3 class="pub-title">{{ p.title | escape }}</h3>
+    <p class="pub-authors">{{ p.authors | escape | replace: "**Brito, C.**", '<span class="me">Brito, C.</span>' }}</p>
+    <p class="pub-venue"><em>{{ p.venue | escape }}</em>{% if include.show_year %}{% unless p.venue contains yr %}, {{ yr }}{% endunless %}{% endif %}</p>
+    {%- if p.pdf or p.doi or p.code or p.slides or p.bibtex %}
+    <div class="pub-links">
+      {%- if p.pdf %}<a class="btn" href="{{ p.pdf | relative_url }}">{% include icon.html name="file-pdf" %}PDF</a>{% endif -%}
+      {%- if p.doi %}<a class="btn" href="{{ p.doi }}">{% include icon.html name="link" %}DOI</a>{% endif -%}
+      {%- if p.code %}<a class="btn" href="{{ p.code }}">{% include icon.html name="github" %}Code</a>{% endif -%}
+      {%- if p.slides %}<a class="btn" href="{{ p.slides | relative_url }}">{% include icon.html name="person-chalkboard" %}Slides</a>{% endif -%}
+      {%- if p.bibtex -%}
+      <details class="bib" data-src="{{ p.bibtex | relative_url }}">
+        <summary class="btn">{% include icon.html name="quote-right" %}BibTeX</summary>
+        <div class="bib-body">
+          <button type="button" class="btn copy" hidden>{% include icon.html name="copy" %}<span>Copy</span></button>
+          <pre><code><a href="{{ p.bibtex | relative_url }}">Open the .bib file</a></code></pre>
+        </div>
+      </details>
+      {%- endif %}
+    </div>
+    {%- endif %}
+  </div>
+</li>

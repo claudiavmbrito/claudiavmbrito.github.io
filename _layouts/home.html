@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<div class="intro">
+  <header class="home-head">
+    <h1 class="name"><span>Cláudia</span> Brito</h1>
+    <p class="role">{{ page.role | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
+  </header>
+  <div class="intro-text">
+{{ content }}
+  </div>
+  <figure class="profile">
+    <img src="{{ '/images/cvmbrito.jpg' | relative_url }}" alt="Portrait of Cláudia Brito" width="260" height="256">
+    <figcaption>
+      <p>{{ page.affiliation | join: '<br>' }}</p>
+      <ul class="profile-links">
+        {%- for s in site.data.social -%}
+          <li><a href="{{ s.url }}">{% include icon.html name=s.icon %}{{ s.label }}</a></li>
+        {%- endfor -%}
+      </ul>
+    </figcaption>
+  </figure>
+</div>
+
+<section aria-labelledby="news">
+  <h2 id="news">News</h2>
+  <table class="news"><tbody>
+    {%- for n in site.data.news limit: page.news_limit -%}
+      <tr><th scope="row">{{ n.date }}</th><td>{{ n.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}</td></tr>
+    {%- endfor -%}
+  </tbody></table>
+</section>
+
+<section aria-labelledby="recent">
+  <div class="section-head">
+    <h2 id="recent">Recent publications</h2>
+    <a href="{{ '/publications/' | relative_url }}">All publications {% include icon.html name="arrow-right" %}</a>
+  </div>
+  {%- assign newest = site.data.publications | map: "year" | sort | last -%}
+  {%- assign recent = site.data.publications | where: "year", newest %}
+  <ol class="pubs">
+    {%- for p in recent limit: page.recent_publications -%}
+      {% include pub.html pub=p show_year=true %}
+    {%- endfor -%}
+  </ol>
+</section>

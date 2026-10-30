@@ -1,33 +1,25 @@
 ---
+layout: home
 permalink: /
-title: ""
-excerpt: "About me"
 description: "Cláudia Brito — Assistant Researcher in AI for Systems and Systems for AI at INESC TEC / HASLab and Invited Assistant Professor at the University of Minho."
-author_profile: true
-redirect_from: 
+role: "Assistant Researcher at [INESC TEC](https://www.inesctec.pt/en), [HASLab](https://dsr-haslab.github.io/)<br>Invited Assistant Professor at the [University of Minho](https://www.uminho.pt/EN)"
+affiliation:
+  - HASLab, INESC TEC
+  - Universidade do Minho
+  - Braga, Portugal
+news_limit: 6              # news items shown (edit them in _data/news.yml)
+recent_publications: 5     # newest-year papers shown (from _data/publications.yml)
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am currently an Assistant Researcher at [INESC TEC](https://www.inesctec.pt/en) (and part of the [DSR HASLab](https://dsr-haslab.github.io/) group) and an Invited Assistant Professor at [University of Minho](https://www.uminho.pt/EN).
+My research is on **AI for Systems and Systems for AI**. Lately it has been moving towards:
 
-My current research focus is on AI for Systems and Systems for AI.
-In detail, my research interests have been shifting towards the following topics:
-
-* AI for systems optimizations and tuning
+* AI for systems optimization and tuning
 * Storage optimizations for AI workloads
 * Energy consumption optimization for data-intensive workloads
 * Application-specific AI for healthcare
+{: .focus}
 
-***
-
-## News
-
-* **Jul 2026** — Our paper *It Works on My Machine: A Systematization of Knowledge on Reproducibility and Replicability in ML-Based Ransomware Detection* was presented at IEEE EuroSPW 2026.
-* **Jun 2026** — Our paper *OHANA: Optimizing Heterogeneous Multi-Artifact Correction in Neuroimaging Analysis* was presented at IEEE CBMS 2026.
-* **May 2026** — *Holpaca: Holistic and Adaptable Cache Management for Shared Environments* was presented at ACM/SPEC ICPE 2026.
-* **Apr 2026** — I wrote an opinion piece for [ECO](https://eco.sapo.pt/opiniao/as-fabricas-de-ia-da-europa-supercomputadores-de-milhares-de-milhoes-a-procura-de-quem-os-saiba-usar/) on Europe's AI factories and the talent needed to run them.
-* **Jan 2026** - Invited talk *Optimizing Energy Consumption in Large Scale AI Training.* at Escola SuperComputador Santos Dumont, Brasil (Online).
-
-
-
+{% include recruiting.html %}

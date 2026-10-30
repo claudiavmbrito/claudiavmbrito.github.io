@@ -1,8 +1,7 @@
 ---
-layout: archive
+layout: page
 title: "Talks"
 permalink: /talks/
-author_profile: true
 ---
 
 ## Conference Talks
@@ -10,9 +9,7 @@ author_profile: true
 **SOTERIA: Preserving Privacy in Distributed Machine Learning**  
 *ACM/SIGAPP Symposium on Applied Computing*  
 Tallinn, Estonia. 2023  
-<a href="https://claudiavmbrito.github.io/files/soteria/SAC23.pdf">
-    <img src="https://img.shields.io/badge/-slides-white?style=plastic&logo=microsoft-powerpoint&logoColor=white&labelColor=lightgray" />
-</a>
+<a class="btn" href="/files/soteria/SAC23.pdf">{% include icon.html name="person-chalkboard" %}Slides</a>
 
 **Electrocardiogram Beat-Classification Based on a ResNet Network**  
 *MEDINFO 2019: Health and Wellbeing e-Networks for All*  
@@ -33,9 +30,7 @@ Online. 2022
 **Let's Go, Private! Towards a Privacy-Preserving and Distributed Machine Learning System**  
 *EuroSys Doctoral Workshop*  
 Rennes, France. 2022  
-<a href="https://claudiavmbrito.github.io/files/eurosys/eurodw-key.pdf">
-    <img src="https://img.shields.io/badge/-slides-white?style=plastic&logo=microsoft-powerpoint&logoColor=white&labelColor=lightgray" />
-</a>
+<a class="btn" href="/files/eurosys/eurodw_key.pdf">{% include icon.html name="person-chalkboard" %}Slides</a>
 
 **Introduction to Private and Secure Machine Learning**  
 *Internal Seminar, Ubiwhere*  
@@ -45,20 +40,7 @@ Online. 2021
 
 ## Posters
 
-<div class="post">
-    <article>
-        <div class="tryouts">
-        <!-- Display tryouts without categories -->
-        {%- assign sorted_tryouts = site.tryouts | sort: "importance" -%}
-        <!-- Generate cards for each tryout -->
-        <div class="grid">
-            {%- for tryout in sorted_tryouts -%}
-            {% include tryout.html %}
-            {%- endfor %}
-        </div>
-        </div>
-    </article>
-</div>
+{% include posters.html %}
 
 ***
 
@@ -79,9 +61,7 @@ Hsinchu, Taiwan. 2025
 **Your AI Is Not a Wizard: The Pitfalls of Non-AI Researchers When Dealing with AI**  
 *HASLab DS Talks, INESC TEC*  
 Braga, Portugal. 2025  
-<a href="https://claudiavmbrito.github.io/files/presentations/yourainotawizard-haslab-2025.pdf">
-    <img src="https://img.shields.io/badge/-slides-white?style=plastic&logo=microsoft-powerpoint&logoColor=white&labelColor=lightgray" />
-</a>
+<a class="btn" href="/files/presentations/yourainotawizard-haslab-2025.pdf">{% include icon.html name="person-chalkboard" %}Slides</a>
 
 **Distributed Systems Research**  
 *Cloud Computing Services and Applications Course, MEI MSc*  
@@ -98,9 +78,7 @@ Agrupamento de Escolas de Ponte da Barca, Portugal. 2024
 **Privacy-Preserving and Distributed Machine Learning**  
 *Women in Engineering Celebration*  
 Agrupamento de Escolas de Ponte da Barca, Portugal. 2023  
-<a href="https://claudiavmbrito.github.io/files/presentations/fevereiro2023_secundario.pdf">
-    <img src="https://img.shields.io/badge/-slides-white?style=plastic&logo=microsoft-powerpoint&logoColor=white&labelColor=lightgray" />
-</a>
+<a class="btn" href="/files/presentations/fevereiro2023_secundario.pdf">{% include icon.html name="person-chalkboard" %}Slides</a>
 
 **Privacy-Preserving and Distributed Machine Learning**  
 *Cloud Computing Services and Applications Course, MEI MSc*  
@@ -109,16 +87,12 @@ University of Minho, Braga, Portugal. 2022
 **Privacy-Preserving Machine Learning for Apache Spark**  
 *Encontro Nacional de Sistemas Distribuídos*  
 Évora, Portugal. 2022  
-<a href="https://claudiavmbrito.github.io/files/ensd/ensd2022_claudiabrito.pdf">
-    <img src="https://img.shields.io/badge/-slides-white?style=plastic&logo=microsoft-powerpoint&logoColor=white&labelColor=lightgray" />
-</a>
+<a class="btn" href="/files/ensd/ensd2022_claudiabrito.pdf">{% include icon.html name="person-chalkboard" %}Slides</a>
 
 **SecureMLlib: Privacy-Preserving Distributed Machine Learning**  
 *Ciclo de Eventos Dinâmicas para a Inovação*  
 Aveiro, Portugal. 2019  
-<a href="https://claudiavmbrito.github.io/files/ani/pitch.pdf">
-    <img src="https://img.shields.io/badge/-slides-white?style=plastic&logo=microsoft-powerpoint&logoColor=white&labelColor=lightgray" />
-</a>
+<a class="btn" href="/files/ani/pitch.pdf">{% include icon.html name="person-chalkboard" %}Slides</a>
 
 **Cloud-based Analytics for Monitoring and Classification of Arrhythmias**  
 *Master Thesis Presentation*  

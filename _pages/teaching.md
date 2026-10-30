@@ -1,8 +1,7 @@
 ---
-layout: archive
+layout: page
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
 ---
 
 ### 2025/2026

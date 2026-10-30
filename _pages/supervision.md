@@ -1,11 +1,12 @@
 ---
-layout: archive
+layout: page
 title: "Supervision" 
 permalink: /supervision/
-author_profile: true
 ---
 
 ## Overview
+
+{% include recruiting.html %}
 
 I have supervised **2 PhD students** and **28 MSc students** (16 completed, 10 ongoing), along with research mentorship projects.  
 

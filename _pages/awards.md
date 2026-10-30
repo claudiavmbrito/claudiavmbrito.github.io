@@ -1,8 +1,7 @@
 ---
-layout: archive
+layout: page
 title: "Awards and Scholarships"
 permalink: /awards/
-author_profile: true
 ---
 
 ### 2024

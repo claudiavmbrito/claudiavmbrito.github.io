@@ -1,0 +1,12 @@
+{%- assign posters = site.tryouts | sort: "importance" -%}
+<ul class="posters">
+  {%- for poster in posters -%}
+  <li class="poster">
+    <a href="{{ poster.url | relative_url }}">
+      <img src="{{ poster.img | relative_url }}" alt="" loading="lazy" width="1050" height="1470">
+      <span class="poster-title">{{ poster.title }}</span>
+      <span class="poster-meta">{{ poster.description | markdownify | remove: '<p>' | remove: '</p>' | strip }}</span>
+    </a>
+  </li>
+  {%- endfor -%}
+</ul>

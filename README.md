@@ -7,36 +7,37 @@ and Systems for AI.
 
 Live at **[claudiavmbrito.github.io](https://claudiavmbrito.github.io)**.
 
-Built with [Jekyll](https://jekyllrb.com/) on the
-[academicpages](https://academicpages.github.io/) template (a fork of the
-[Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme) and served
-via GitHub Pages.
+Built with [Jekyll](https://jekyllrb.com/) and served via GitHub Pages, using a
+small custom theme (al-folio-style layout, self-hosted fonts and icons).
 
 ## Structure
 
 | Path | Contents |
 | --- | --- |
-| `_pages/` | Top-level pages (about, publications, teaching, supervision, service, projects, talks, awards, cv) |
-| `_tryouts/` | Conference **posters** (rendered in the Posters section of the Talks page) |
-| `_data/navigation.yml` | Main navigation menu |
-| `_config.yml` | Site-wide configuration |
-| `_sass/`, `assets/css/` | Styles |
-| `_includes/`, `_layouts/` | Theme templates |
-| `files/` | PDFs and other downloads, served at `/files/...` |
-| `images/` | Site images |
+| `_pages/` | Pages (about, publications, projects, supervision, teaching, talks, service, experience, awards) |
+| `_data/publications.yml` | All publications; rendered on `/publications/` and, for the newest year, on the home page |
+| `_data/news.yml` | News items on the home page |
+| `_data/navigation.yml` | Top bar menu |
+| `_data/social.yml` | Profile links (home page and footer) |
+| `_tryouts/` | Conference posters, shown in the Posters section of the Talks page |
+| `_includes/recruiting.html` | The "not recruiting" notice (home and Supervision) |
+| `_layouts/`, `_includes/`, `assets/` | Theme: layouts, CSS, script, fonts, icon sprite |
+| `files/` | PDFs and BibTeX files, served at `/files/...` |
+| `images/` | Portrait and favicons |
 
 ## Editing content
 
-- **Publications / Talks / Teaching / etc.** — edit the corresponding file in
-  `_pages/` directly (they are hand-maintained Markdown).
-- **Posters** — add a Markdown file to `_tryouts/` (see existing entries for the
-  front matter: `title`, `description`, `img`, `importance`, `category`).
-- **Navigation** — edit `_data/navigation.yml`.
+- **New paper**: add an entry at the top of its year in `_data/publications.yml`
+  (`type`, `year`, `abbr`, `title`, `authors`, `venue`, and optional `pdf`, `doi`, `code`,
+  `slides`, `bibtex`). Put PDFs and `.bib` files under `files/`. Mark yourself as `**Brito, C.**`.
+- **News**: add an item at the top of `_data/news.yml` (Markdown text).
+- **Other pages**: edit the Markdown in `_pages/`.
+- **Posters**: add a Markdown file to `_tryouts/` (front matter: `title`, `description`,
+  `img`, `importance`).
 
 ## Run locally
 
-Requires Ruby + Bundler (and ImageMagick if you keep the responsive-image pipeline
-enabled in `_config.yml`).
+Requires Ruby and Bundler.
 
 ```sh
 bundle install
@@ -51,5 +52,5 @@ change. `_site/` is build output and is gitignored.
 
 ## License
 
-Theme code is © Michael Rose and released under the MIT License (see `LICENSE`).
+`_includes/seo.html` comes from Minimal Mistakes, © Michael Rose, MIT License (see `LICENSE`).
 Site content (text, publications, images) © Cláudia Brito.

@@ -1,8 +1,7 @@
 ---
-layout: archive
+layout: page
 title: "Service"
 permalink: /service/
-author_profile: true
 ---
 
 ## Organizing Committee

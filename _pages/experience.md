@@ -1,8 +1,7 @@
 ---
-layout: archive
+layout: page
 title: "Experience"
 permalink: /experience/
-author_profile: true
 ---
 
 ## Experience

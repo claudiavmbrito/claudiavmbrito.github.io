@@ -1,0 +1,16 @@
+# Profile links: home page sidebar and footer. `icon` is a symbol id in _includes/icon-sprite.html.
+- label: Email
+  icon: envelope
+  url: mailto:claudia.v.brito@inesctec.pt
+- label: Google Scholar
+  icon: scholar
+  url: https://scholar.google.com/citations?user=ertclDsAAAAJ&hl
+- label: ORCID
+  icon: orcid
+  url: https://orcid.org/0000-0003-4293-9887
+- label: GitHub
+  icon: github
+  url: https://github.com/claudiavmbrito
+- label: LinkedIn
+  icon: linkedin
+  url: https://www.linkedin.com/in/claudiavmbrito/

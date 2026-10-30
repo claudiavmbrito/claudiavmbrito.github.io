@@ -1,28 +1,22 @@
-# main links links
+# Top bar navigation
 main:
-
+  - title: "About"
+    url: /
   - title: "Publications"
     url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "Supervision"
-    url: /supervision/
-
-  - title: "Service"
-    url: /service/
-
   - title: "Projects"
     url: /projects/
-
+  - title: "Supervision"
+    url: /supervision/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Talks"
     url: /talks/
-
+  - title: "Service"
+    url: /service/
   - title: "Experience"
     url: /experience/
-
-  - title: "Awards and Scholarships"
+  - title: "Awards"
     url: /awards/
-
-
+  - title: "CV"
+    url: /files/cv-full.pdf

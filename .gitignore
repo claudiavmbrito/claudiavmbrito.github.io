@@ -48,3 +48,10 @@ Gemfile.lock
 
 # Stray macOS clippings
 *.textClipping
+
+# Claude Code and design-tooling files (local only)
+.claude/
+.impeccable/
+CLAUDE.md
+PRODUCT.md
+DESIGN.md
