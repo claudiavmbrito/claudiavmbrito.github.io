@@ -2,9 +2,19 @@
 layout: page
 title: "Service"
 permalink: /service/
+toc:
+  - { id: organizing, title: "Organizing Committee" }
+  - { id: program-committee, title: "Program Committees" }
+  - { id: artifact-evaluation, title: "Artifact Evaluation" }
+  - { id: shadow-pc, title: "Shadow PC" }
+  - { id: thesis-committees, title: "Thesis Committees" }
+  - { id: journal-reviewer, title: "Journal Reviewing" }
+  - { id: external-reviewer, title: "External Reviewing" }
+  - { id: outreach, title: "Outreach & Media" }
+  - { id: other, title: "Other Service" }
 ---
 
-## Organizing Committee
+## Organizing Committee {#organizing}
 
 ### 2027
 
@@ -12,7 +22,7 @@ permalink: /service/
 
 ***
 
-## Program Committee Member
+## Program Committee Member {#program-committee}
 
 ### 2027
 
@@ -24,7 +34,7 @@ permalink: /service/
 * International Women in HPC Workshop, co-located with SC26, Review Committee ([WHPC@SC26](https://womeninhpc.org/events/sc-2026-workshop))
 * 33rd IEEE International Conference on High Performance Computing, Data, and Analytics, AI track ([HiPC 2026](https://hipc.org/))
 * The 4th Workshop on AI For Systems (AI4Sys 2026), co-located with HPDC ([AI4Sys 2026](https://ai4sys.github.io/))
-* The 32nd International Conference on Parallel and Distributed Computing (Euro-Par 2024), Posters track ([Euro-Par 2026](https://2026.euro-par.org/))
+* The 32nd International Conference on Parallel and Distributed Computing (Euro-Par 2026), Posters track ([Euro-Par 2026](https://2026.euro-par.org/))
 * The 39th IEEE International Symposium on Computer-Based Medical Systems ([CBMS 2026](https://2026.cbms-conference.org/))
 * The 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing ([CCGrid 2026](https://ccgrid2026.org/))
 * The 25th International Conference on Distributed Applications and Interoperable Systems. ([DAIS'26](https://www.discotec.org/2026/dais))
@@ -42,7 +52,7 @@ permalink: /service/
 
 ***
 
-## Artifact Evaluation Committee
+## Artifact Evaluation Committee {#artifact-evaluation}
 
 ### 2027
 
@@ -71,7 +81,7 @@ permalink: /service/
 
 ***
 
-## Shadow Program Committee
+## Shadow Program Committee {#shadow-pc}
 
 ### 2025
 
@@ -79,7 +89,7 @@ permalink: /service/
 
 ***
 
-## Thesis Committees
+## Thesis Committees {#thesis-committees}
 
 ### 2026
 
@@ -91,7 +101,7 @@ permalink: /service/
 
 ***
 
-## Journal Reviewer
+## Journal Reviewer {#journal-reviewer}
 
 ### 2026
 
@@ -124,7 +134,7 @@ permalink: /service/
 
 ***
 
-## External Reviewer
+## External Reviewer {#external-reviewer}
 
 ### 2025
 
@@ -132,7 +142,7 @@ permalink: /service/
 
 ***
 
-## Outreach & Media
+## Outreach & Media {#outreach}
 
 ### 2026
 
@@ -141,7 +151,7 @@ permalink: /service/
 
 ***
 
-## Other Service
+## Other Service {#other}
 
 ### 2020
 

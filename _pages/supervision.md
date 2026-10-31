@@ -8,12 +8,16 @@ permalink: /supervision/
 
 {% include recruiting.html %}
 
-I have supervised **2 PhD students** and **28 MSc students** (16 completed, 10 ongoing), along with research mentorship projects.  
+I have supervised **4 PhD students** and **28 MSc students** (16 completed, 10 ongoing), along with research mentorship projects.  
 
 
 ***
 
 ## PhD theses
+
+### 2027
+
+* **Alexandre Fernandes.** *Optimizing the Energy Efficiency of Modern Data Centers.* Co-advised with Ricardo Macedo. Doctoral Programme in Informatics, University of Minho. (starting 2027)
 
 ### 2026
 
@@ -22,6 +26,10 @@ I have supervised **2 PhD students** and **28 MSc students** (16 completed, 10 o
 ### 2025
 
 * **Alícia Oliveira.** *A systems perspective on LLM optimizations.* Supervised with António Sousa. University of Minho. (ongoing)
+
+### 2023
+
+* **Beatriz Cepa.** *Optimizing Scientific Workflows for HPC.* Co-advised with António Sousa. Doctoral Programme in Informatics, University of Minho. (ongoing)
 
 ## MSc theses
 

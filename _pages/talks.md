@@ -2,9 +2,14 @@
 layout: page
 title: "Talks"
 permalink: /talks/
+toc:
+  - { id: conference, title: "Conference" }
+  - { id: workshop, title: "Workshops and Webinars" }
+  - { id: posters, title: "Posters" }
+  - { id: invited, title: "Invited Talks" }
 ---
 
-## Conference Talks
+## Conference Talks {#conference}
 
 **SOTERIA: Preserving Privacy in Distributed Machine Learning**  
 *ACM/SIGAPP Symposium on Applied Computing*  
@@ -17,7 +22,7 @@ Lyon, France. 2019
 
 ***
 
-## Workshop and Webinar Talks
+## Workshop and Webinar Talks {#workshop}
 
 **Can We Trust AI? Maybe We Don’t Have To: Designing AI-Aware Systems**  
 *Cybersecurity and AI Webinar, YEAR Network*  
@@ -38,13 +43,13 @@ Online. 2021
 
 ***
 
-## Posters
+## Posters {#posters}
 
 {% include posters.html %}
 
 ***
 
-## Invited Talks and Presentations
+## Invited Talks and Presentations {#invited}
 
 **Optimizing Energy Consumption in Large-Scale AI Training**  
 *18th edition of the Santos Dumont Summer School*  
