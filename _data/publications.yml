@@ -13,6 +13,14 @@
 
 - type: "conference"
   year: 2026
+  abbr: "AISQ"
+  title: "Phoenix: Parallel Event-Driven Simulation in PeerSim for Intelligent Workloads"
+  authors: "Marques, S. V., **Brito, C.**, Coelho, F."
+  venue: "3rd International Workshop on Advanced Intelligent Software Applications (AISQ), co-located with the 37th IEEE International Symposium on Software Reliability Engineering (ISSRE), Limassol, Cyprus, 2026"
+  pdf: "/files/phoenix/phoenix-issrew26.pdf"
+
+- type: "conference"
+  year: 2026
   abbr: "UCC"
   title: "Per-Round Profiling of Energy, Carbon, and Communication in Federated Learning with EnerFL"
   authors: "Araújo, T., **Brito, C.**, Navaux, P."
