@@ -26,6 +26,7 @@ toc:
 
 ### 2027
 
+* 38th IEEE International Symposium on Software Reliability Engineering ([ISSRE 2027](https://conf.researchr.org/home/issre-2027))
 * 18th ACM/SPEC International Conference on Performance Engineering ([ICPE 2027](https://icpe2027.spec.org/))
 * 27th International Conference on Distributed Applications and Interoperable Systems ([DAIS'27](https://www.discotec.org/2027/dais))
 

@@ -82,6 +82,7 @@ I have supervised **4 PhD students** and **28 MSc students** (16 completed, 10 o
 ***
 ### 2020/2021
 
+* **Eduarda Dantas Vieira** * Stress Detection from Ultra-Short HRV using Deep Learning* Co-advised with António Sousa. University of Minho. *Finished: 19/20*
 * **Ana Cláudia Abreu.** *Distributed Deep Learning Approach for Epilepsy Detection on EEG signals.* Co-advised with António Sousa. University of Minho. *Finished: 17/20*
 
 ***
