@@ -8,7 +8,7 @@ permalink: /supervision/
 
 {% include recruiting.html %}
 
-I have supervised **4 PhD students** and **28 MSc students** (16 completed, 10 ongoing), along with research mentorship projects.  
+I have supervised **4 PhD students** and **31 MSc students** (17 completed, 14 ongoing), along with research mentorship projects.  
 
 
 ***
@@ -21,11 +21,11 @@ I have supervised **4 PhD students** and **28 MSc students** (16 completed, 10 o
 
 ### 2026
 
-* **Gonçalo Sousa.** *AI for Systems and Systems for AI* Supervised with João Paulo. University of Minho. (ongoing)
+* **Gonçalo Sousa.** *AI for Systems and Systems for AI.* Co-advised with João Paulo. Doctoral Programme in Informatics, University of Minho. (ongoing)
 
 ### 2025
 
-* **Alícia Oliveira.** *A systems perspective on LLM optimizations.* Supervised with António Sousa. University of Minho. (ongoing)
+* **Alícia Oliveira.** *A Systems Perspective on LLM Optimizations.* Co-advised with António Sousa. Doctoral Programme in Informatics, University of Minho. (ongoing)
 
 ### 2023
 
@@ -33,6 +33,14 @@ I have supervised **4 PhD students** and **28 MSc students** (16 completed, 10 o
 
 ## MSc theses
 
+### 2026/2027
+
+* **Helena Cunha.** *AI-based Adaptive Configuration of Storage Systems.* Co-advised with João Paulo. University of Minho.
+* **Ricardo Sousa.** *Synthetic Source Code Generation with Generative AI for Testing CI/CD Workflows.* Co-advised with Tânia Esteves. University of Minho.
+* **Martim Ferreira.** *What Works: Identifying Drivers of Sustained Patient Engagement on Nutrium Care.* Co-advised with Alexandra Ligueti (Nutrium). University of Minho.
+* **Pedro Teixeira.** *Reputation Systems for Improving Retrieval-Augmented Generation Pipelines.* Co-advised with Diogo Ribeiro and João Marco. University of Minho.
+
+***
 ### 2025/2026
 
 * **Nuno Matos.** *Adaptable I/O library for Medical Imaging Workloads.* Co-advised with João Paulo. University of Minho.
@@ -49,9 +57,9 @@ I have supervised **4 PhD students** and **28 MSc students** (16 completed, 10 o
 
 * **Ana Sousa.** *Classifying Alzheimer’s Disease through Federated Learning and 3D Brain MRIs.* Co-advised with António Sousa, Beatriz Cepa and Alícia Oliveira. University of Minho. *Finished: 18/20*
 * **Ricardo Araújo.** *Neuroimaging analysis pipeline leveraging open-source frameworks in distributed environments.* Co-advised with António Sousa and Beatriz Cepa. University of Minho.   
-* **Alexandre Fernandes.** *Energy Monitoring System for Large-Scale Infrastructures.* Co-advised with Ricardo Macedo and António Sousa, University of Minho. *Finished: 19/20*
+* **Alexandre Fernandes.** *Energy Monitoring System for Large-Scale Infrastructures.* Co-advised with Ricardo Macedo, University of Minho. *Finished: 19/20*
 * **Carlos Machado.** *An NVMe-oriented I/O scheduler for reducing energy consumption.* Co-advised with João Paulo and Ricardo Macedo, University of Minho.
-* **Miguel Braga.** *GPU Energy Control for LLMs.* Co-advised with Ricardo Macedo and António Sousa, University of Minho. *Finished: 19/20*
+* **Miguel Braga.** *GPU Energy Control for LLMs.* Co-advised with Ricardo Macedo, University of Minho. *Finished: 19/20*
 * **Gonçalo Sousa.** *Fault-Tolerant storage solutions for AI training in HPC.* Co-advised with João Paulo, University of Minho. *Finished: 18/20*
 * **André Lucena.** *Storage Optimizations for large-scale AI training in HPC.* Co-advised with João Paulo, University of Minho. *Finished: 18/20*
         
@@ -69,7 +77,7 @@ I have supervised **4 PhD students** and **28 MSc students** (16 completed, 10 o
 ***
 ### 2022/2023
 
-* **Maria Beatriz Moreira.** *"I/O Optimizations for Distributed Deep Learning Training"*. Co-advised with João Paulo and Ricardo Macedo. University of Minho* *Finished: 18/20*   
+* **Maria Beatriz Moreira.** *I/O Optimizations for Distributed Deep Learning Training.* Co-advised with João Paulo and Ricardo Macedo. University of Minho. *Finished: 18/20*   
 <!-- * **Luís Branco.** *Integration of Distributed Deep Learning in MCC application.* Co-advised with António Sousa and Beatriz Cepa. University of Minho.  -->
 
 ***
@@ -77,12 +85,12 @@ I have supervised **4 PhD students** and **28 MSc students** (16 completed, 10 o
 
 * **Beatriz Cepa.** *Deep Learning for Image Generation Using HPC.* Co-advised with António Sousa. University of Minho. *Finished: 18/20*
 * **Beatriz Soares.** *A Web and Machine Learning-based DICOM Image Tool.* Co-advised with António Sousa. University of Minho. *Finished: 20/20*
-* **João Alves.*** *Cloud-based Healthcare Application with Privacy-preserving Analytics.* Co-advised with António Sousa. University of Minho. *Finished: 19/20*
+* **João Alves.** *Cloud-based Healthcare Application with Privacy-preserving Analytics.* Co-advised with António Sousa. University of Minho. *Finished: 19/20*
 
 ***
 ### 2020/2021
 
-* **Eduarda Dantas Vieira** * Stress Detection from Ultra-Short HRV using Deep Learning* Co-advised with António Sousa. University of Minho. *Finished: 19/20*
+* **Eduarda Dantas Vieira.** *Stress Detection from Ultra-Short HRV using Deep Learning.* Co-advised with António Sousa. University of Minho. *Finished: 19/20*
 * **Ana Cláudia Abreu.** *Distributed Deep Learning Approach for Epilepsy Detection on EEG signals.* Co-advised with António Sousa. University of Minho. *Finished: 17/20*
 
 ***
@@ -99,6 +107,19 @@ I have supervised **4 PhD students** and **28 MSc students** (16 completed, 10 o
 * **Bruno Gião, Inês Castro, Paula Marques.** *eBPF checker explainer with LLMs.* co-advised with Tânia Esteves. University of Minho.
 * **Manuel Carvalho, Nuno Matos.** *Pipeline for the analysis of time series data based in AI models using distributed systems.* Co-advised with Fábio Coelho (under the ATE project), University of Minho.
 
+### 2024
+* **André Ferreira, Carlos Machado and Gonçalo Sousa.** *Characterization of DL Models and LLMs with eBPF.* Co-advised with Tânia Esteves. University of Minho.
+
 ### 2023
 * **Diana Rodrigues, José Fernandes and Mariana Amorim.** *Monitoring Energy Consumption with Fine-Granularity in Data-centric Applications.* Co-advised with António Sousa and Ricardo Macedo, University of Minho
 
+### 2019
+* **Daniel Fernandes, Mariana Miranda and Helena Poleri.** *Adaptive Storage System with Reinforcement Learning.* Co-advised with João Paulo, University of Minho.
+* **João Barreira and Rafael Costa.** *Study and Evaluation of Secure Deep Learning Frameworks.* Co-advised with João Paulo, University of Minho.
+
+***
+
+## Student awards
+
+### 2024
+* **Diana Rodrigues.** Master's award from the Ordem dos Engenheiros, Região Norte.

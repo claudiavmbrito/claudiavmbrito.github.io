@@ -1,6 +1,6 @@
 # Publications, newest first within each type. Rendered by _includes/publications.html.
 # type: conference | journal | poster | preprint | thesis
-# Optional links: pdf, doi, code, slides, bibtex (path to a .bib file under /files)
+# Optional links: pdf, doi, url (any other page), code, slides, bibtex (path to a .bib file under /files)
 
 - type: "conference"
   year: 2026
@@ -237,6 +237,14 @@
   code: "https://github.com/claudiavmbrito/FL-Transportation"
   bibtex: "/files/eurosys/bibtex.bib"
 
+- type: "poster"
+  year: 2022
+  abbr: "EuroSys"
+  title: "Let's Go, Private! Towards a Privacy-Preserving and Distributed Machine Learning System"
+  authors: "**Brito, C.**"
+  venue: "EuroSys 2022, Poster Session"
+  pdf: "/files/eurosys/poster_eurodw_final.pdf"
+
 - type: "preprint"
   year: 2024
   abbr: "bioRxiv"
@@ -270,6 +278,23 @@
   code: "https://github.com/claudiavmbrito/gyosa"
   bibtex: "/files/gyosa/bibtex.bib"
 
+- type: "preprint"
+  year: 2022
+  abbr: "SSRN"
+  title: "Promoting Sustainable and Personalised Travel Behaviours while Preserving Data Privacy"
+  authors: "Pina, N., **Brito, C.**, Vitorino, R., Cunha, I."
+  venue: "SSRN preprint"
+  url: "https://ssrn.com/abstract=4564774"
+
+- type: "preprint"
+  year: 2021
+  abbr: "IACR"
+  title: "SOTERIA: Privacy-Preserving Machine Learning for Apache Spark"
+  authors: "**Brito, C.**, Ferreira, P., Portela, B., Oliveira, R., Paulo, J."
+  venue: "IACR Cryptology ePrint Archive, 2021/966"
+  url: "https://eprint.iacr.org/2021/966"
+  code: "https://github.com/claudiavmbrito/soteria"
+
 - type: "thesis"
   year: 2024
   abbr: "Thesis"
@@ -278,3 +303,10 @@
   venue: "PhD Thesis, University of Minho"
   pdf: "/files/phd/phdthesis_claudia.pdf"
   slides: "/files/phd/phd_presentation_claudia.pdf"
+
+- type: "thesis"
+  year: 2018
+  abbr: "Thesis"
+  title: "Cloud-Based Analytics for Monitoring and Classification of Arrhythmias"
+  authors: "**Brito, C.**"
+  venue: "MSc Thesis, Integrated Master in Biomedical Engineering, University of Minho"

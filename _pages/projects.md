@@ -121,3 +121,35 @@ permalink: /projects/
 **Description:** Research and development of a Software-Defined Storage data plane for improving I/O performance of AI-powered applications in HPC infrastructures.  
 **Project reference:** [UTA-EXPL/CA/0075/2019](https://pastor-project.github.io/)
 
+
+***
+
+## International Collaborations
+
+### 2026 -- Present
+
+**Kiran Naseer** (University of Gujrat, Pakistan) — *Energy Cost of Protecting Divergent Hospitals in Federated Brain Tumour Segmentation.* Started with Kiran Naseer's one-month visit to HASLab, INESC TEC, as an invited visiting researcher (PhD student), October to November 2026.
+
+### 2025 -- Present
+
+**PADIN Collaboration** — Participation in the PADIN workshops (one in person, one online) and in planning future joint work.
+
+**Yuta Seino, Nozaki Kazunori, Le Van An** — *Federated Learning for Disaster Victim Identification.* CENTRA-ESDM project; privacy-preserving measures for a federated learning system for disaster victim identification.
+
+**Le Van An, Truong Nguyen, Jason Haga** — *Optimizations under Federated Learning Settings.* CENTRA-ESDM project.
+
+### 2024 -- Present
+
+**Thiago Araújo and Philippe Navaux** (UFRGS, Brazil) — *Energy, Carbon, and Communication Profiling of Federated Learning.* Resulted in [EnerFL](https://github.com/tsilvaaraujo/enerfl) and a paper at IEEE/ACM UCC 2026.
+
+**Vera Rimmer and Lieven Desmet** (KU Leuven, Belgium) — *Ransomware Dataset Generator Pipeline for Machine Learning.* With the supervision team of MSc student Bruno Pereira (Tânia Esteves and João Paulo).
+
+**Rahma Nouaji** (McGill University, Canada) — *Optimization of Large Language Models.* With Ricardo Macedo (INESC TEC) and Oana Balmau (McGill), under INESC TEC's Visiting Researcher Programme, May to July 2024.
+
+### 2023 -- Present
+
+**Raju Rangaswami, Janki Bhimani, Yangzhao Wu** (Florida International University, USA) — *Storage and Checkpointing Optimizations for Deep Learning Workloads.* With Ricardo Macedo and João Paulo.
+
+### 2018 -- Present
+
+**Jason Haga and Yusuke Tanimura** (AIST, Japan) — *Storage Optimizations for AI Workloads.* CENTRA-ESDM and CENTRA-PaSM projects.
