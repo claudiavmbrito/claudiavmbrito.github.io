@@ -1,0 +1,27 @@
+# Research lines, drawn on the home-page route map and as marks on each publication.
+# Lines are told apart by stroke, never by colour: solid, dashed, dotted, double, dash-dot.
+# Tag a paper with `lines: [id, ...]` in _data/publications.yml.
+# Order is the route map's row order: lines that share papers sit next to each
+# other so interchanges never cross another line. The legend lists earlier lines last.
+
+- id: sys
+  name: AI for systems optimization and tuning
+  short: AI for systems
+  stroke: solid
+- id: sto
+  name: Storage optimizations for AI workloads
+  short: Storage for AI
+  stroke: dashed
+- id: nrg
+  name: Energy efficiency of data-intensive workloads
+  short: Energy
+  stroke: dotted
+- id: priv
+  name: Privacy-preserving distributed machine learning
+  short: Privacy-preserving ML
+  stroke: dashdot
+  earlier: true   # PhD-era line, shown as an earlier route
+- id: med
+  name: Application-specific AI for healthcare
+  short: Healthcare AI
+  stroke: double

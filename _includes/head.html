@@ -1,12 +1,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {% include seo.html %}
-<link rel="preload" href="{{ '/assets/fonts/source-sans-3-latin.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ '/assets/fonts/overpass-latin.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 <link rel="icon" type="image/png" href="{{ '/images/favicon-32x32.png' | relative_url }}" sizes="32x32">
 <link rel="icon" type="image/png" href="{{ '/images/favicon-16x16.png' | relative_url }}" sizes="16x16">
 <link rel="icon" type="image/png" href="{{ '/images/android-chrome-192x192.png' | relative_url }}" sizes="192x192">
 <link rel="apple-touch-icon" href="{{ '/images/apple-touch-icon-180x180.png' | relative_url }}" sizes="180x180">
-<meta name="theme-color" content="#1f5fa8">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121417" media="(prefers-color-scheme: dark)">
 <script>try{var t=localStorage.getItem("theme");if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
 {% include analytics.html %}

@@ -2,6 +2,7 @@
 layout: page
 title: "Supervision" 
 permalink: /supervision/
+state_marks: true
 ---
 
 ## Overview
@@ -35,30 +36,30 @@ I have supervised **4 PhD students** and **31 MSc students** (17 completed, 14 o
 
 ### 2026/2027
 
-* **Helena Cunha.** *AI-based Adaptive Configuration of Storage Systems.* Co-advised with João Paulo. University of Minho.
-* **Ricardo Sousa.** *Synthetic Source Code Generation with Generative AI for Testing CI/CD Workflows.* Co-advised with Tânia Esteves. University of Minho.
-* **Martim Ferreira.** *What Works: Identifying Drivers of Sustained Patient Engagement on Nutrium Care.* Co-advised with Alexandra Ligueti (Nutrium). University of Minho.
-* **Pedro Teixeira.** *Reputation Systems for Improving Retrieval-Augmented Generation Pipelines.* Co-advised with Diogo Ribeiro and João Marco. University of Minho.
+* **Helena Cunha.** *AI-based Adaptive Configuration of Storage Systems.* Co-advised with João Paulo. University of Minho. (ongoing)
+* **Ricardo Sousa.** *Synthetic Source Code Generation with Generative AI for Testing CI/CD Workflows.* Co-advised with Tânia Esteves. University of Minho. (ongoing)
+* **Martim Ferreira.** *What Works: Identifying Drivers of Sustained Patient Engagement on Nutrium Care.* Co-advised with Alexandra Ligueti (Nutrium). University of Minho. (ongoing)
+* **Pedro Teixeira.** *Reputation Systems for Improving Retrieval-Augmented Generation Pipelines.* Co-advised with Diogo Ribeiro and João Marco. University of Minho. (ongoing)
 
 ***
 ### 2025/2026
 
-* **Nuno Matos.** *Adaptable I/O library for Medical Imaging Workloads.* Co-advised with João Paulo. University of Minho.
-* **Manuel Carvalho.** *I/O optimizations for Medical Imaging Workloads.* Co-advised with João Paulo. University of Minho.
-* **Augusto Campos.** *User-focused HPC Job Monitoring and Analysis System.* Co-advised with António Sousa. University of Minho.
-* **João Abreu.** *Intelligent Resource Allocation in HPC.* Co-advised with António Sousa. University of Minho.
-* **Paulo Pinto.** *Data Optimization Mechanisms in Intrusion Detection Systems.* Co-advised with João Marco. University of Minho. 
-* **João Cardoso.** *Benchmarking of LLMs Inference in Medical Diagnosis.* Co-advised with António Sousa and Alícia Oliveira. University of Minho.
-* **Beatriz Macedo.** *Medical Q&A and Treatment Recommendation Using LLMs in HPC Environments.* Co-advised with António Sousa and Alícia Oliveira. University of Minho.
-* **André Sousa.** *Pipeline for Medical Image Anonymisation in HPC environments.* Co-advised with António Sousa and Beatriz Cepa. University of Minho.
+* **Nuno Matos.** *Adaptable I/O library for Medical Imaging Workloads.* Co-advised with João Paulo. University of Minho. (ongoing)
+* **Manuel Carvalho.** *I/O optimizations for Medical Imaging Workloads.* Co-advised with João Paulo. University of Minho. (ongoing)
+* **Augusto Campos.** *User-focused HPC Job Monitoring and Analysis System.* Co-advised with António Sousa. University of Minho. (ongoing)
+* **João Abreu.** *Intelligent Resource Allocation in HPC.* Co-advised with António Sousa. University of Minho. (ongoing)
+* **Paulo Pinto.** *Data Optimization Mechanisms in Intrusion Detection Systems.* Co-advised with João Marco. University of Minho. (ongoing)
+* **João Cardoso.** *Benchmarking of LLMs Inference in Medical Diagnosis.* Co-advised with António Sousa and Alícia Oliveira. University of Minho. (ongoing)
+* **Beatriz Macedo.** *Medical Q&A and Treatment Recommendation Using LLMs in HPC Environments.* Co-advised with António Sousa and Alícia Oliveira. University of Minho. (ongoing)
+* **André Sousa.** *Pipeline for Medical Image Anonymisation in HPC environments.* Co-advised with António Sousa and Beatriz Cepa. University of Minho. (ongoing)
 
 ***
 ### 2024/2025
 
 * **Ana Sousa.** *Classifying Alzheimer’s Disease through Federated Learning and 3D Brain MRIs.* Co-advised with António Sousa, Beatriz Cepa and Alícia Oliveira. University of Minho. *Finished: 18/20*
-* **Ricardo Araújo.** *Neuroimaging analysis pipeline leveraging open-source frameworks in distributed environments.* Co-advised with António Sousa and Beatriz Cepa. University of Minho.   
+* **Ricardo Araújo.** *Neuroimaging analysis pipeline leveraging open-source frameworks in distributed environments.* Co-advised with António Sousa and Beatriz Cepa. University of Minho. (ongoing)
 * **Alexandre Fernandes.** *Energy Monitoring System for Large-Scale Infrastructures.* Co-advised with Ricardo Macedo, University of Minho. *Finished: 19/20*
-* **Carlos Machado.** *An NVMe-oriented I/O scheduler for reducing energy consumption.* Co-advised with João Paulo and Ricardo Macedo, University of Minho.
+* **Carlos Machado.** *An NVMe-oriented I/O scheduler for reducing energy consumption.* Co-advised with João Paulo and Ricardo Macedo, University of Minho. (ongoing)
 * **Miguel Braga.** *GPU Energy Control for LLMs.* Co-advised with Ricardo Macedo, University of Minho. *Finished: 19/20*
 * **Gonçalo Sousa.** *Fault-Tolerant storage solutions for AI training in HPC.* Co-advised with João Paulo, University of Minho. *Finished: 18/20*
 * **André Lucena.** *Storage Optimizations for large-scale AI training in HPC.* Co-advised with João Paulo, University of Minho. *Finished: 18/20*

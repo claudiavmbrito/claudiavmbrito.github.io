@@ -1,7 +1,7 @@
 {%- assign p = include.pub -%}
 {%- capture yr %}{{ p.year }}{% endcapture -%}
-<li class="pub">
-  <div class="abbr"><span>{{ p.abbr }}</span></div>
+<li class="pub" id="{{ p.title | slugify }}" data-lines="{{ p.lines | join: ' ' }}">
+  <div class="abbr"><span>{{ p.abbr }}</span>{% if p.lines %}<span class="pub-lines">{% for id in p.lines %}{% include line-mark.html id=id %}{% endfor %}</span>{% endif %}</div>
   <div class="pub-body">
     <h3 class="pub-title">{{ p.title | escape }}</h3>
     <p class="pub-authors">{{ p.authors | escape | replace: "**Brito, C.**", '<span class="me">Brito, C.</span>' }}</p>

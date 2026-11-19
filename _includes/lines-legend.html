@@ -1,0 +1,11 @@
+<ul class="legend">
+  {%- assign current = site.data.lines | where_exp: "l", "l.earlier != true" -%}
+  {%- assign earlier = site.data.lines | where: "earlier", true -%}
+  {%- assign ordered = current | concat: earlier -%}
+  {%- for l in ordered -%}
+    {%- if l.earlier -%}
+      {%- assign iy = site.data.publications | where_exp: "p", "p.lines contains l.id" | map: "year" | sort -%}
+    {%- endif %}
+  <li{% if l.earlier %} class="earlier"{% endif %}><svg class="lm" aria-hidden="true"><use href="#ln-{{ l.stroke }}"></use></svg><span>{{ l.name }}{% if l.earlier %} <span class="tag">{{ iy | first }}–{{ iy | last }}</span>{% endif %}</span></li>
+  {%- endfor %}
+</ul>

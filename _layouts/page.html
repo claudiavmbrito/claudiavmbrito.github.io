@@ -13,6 +13,10 @@ layout: default
     {%- endif %}
   </header>
   <div class="prose{% if page.wide %} wide{% endif %}">
+{%- if page.state_marks -%}
+{{ content | replace: ' (ongoing)', '<span class="state">&nbsp;<svg class="st" aria-hidden="true"><use href="#st-ongoing"></use></svg>ongoing</span>' | replace: ' (starting 2027)', '<span class="state">&nbsp;<svg class="st" aria-hidden="true"><use href="#st-upcoming"></use></svg>starting 2027</span>' | replace: ' <em>Finished:', '<span class="nowrap">&nbsp;<svg class="st" role="img" aria-label="Completed"><use href="#st-done"></use></svg>&nbsp;</span><em>Finished:' }}
+{%- else -%}
 {{ content }}
+{%- endif %}
   </div>
 </article>

@@ -8,6 +8,15 @@
     {%- endfor -%}
   </ul>
 </nav>
+<div class="line-filter" role="group" aria-label="Highlight a research line">
+  <span class="line-filter-label">Highlight a line</span>
+  <button type="button" class="chip" data-line="" aria-pressed="true">All</button>
+  {%- for l in site.data.lines -%}
+    {%- assign n = pubs | where_exp: "p", "p.lines contains l.id" | size %}
+  <button type="button" class="chip" data-line="{{ l.id }}" aria-pressed="false"><svg class="lm" aria-hidden="true"><use href="#ln-{{ l.stroke }}"></use></svg>{{ l.short }} <span class="count">{{ n }}</span></button>
+  {%- endfor %}
+</div>
+<div class="pub-list">
 {%- for sec in page.sections -%}
   {%- assign list = pubs | where: "type", sec.id -%}
   {%- if list.size > 0 %}
@@ -27,3 +36,4 @@
 </section>
   {%- endif -%}
 {%- endfor -%}
+</div>

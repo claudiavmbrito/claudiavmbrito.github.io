@@ -1,0 +1,2 @@
+{%- assign l = site.data.lines | where: "id", include.id | first -%}
+{%- if l %}<svg class="lm" role="img" aria-label="{{ l.name }}"><title>{{ l.name }}</title><use href="#ln-{{ l.stroke }}"></use></svg>{% endif -%}

@@ -29,3 +29,20 @@ document.querySelectorAll(".bib .copy").forEach(function (b) {
     setTimeout(function () { l.textContent = "Copy"; }, 2000);
   });
 });
+
+// Line filter on Publications: highlight one research line, dim the rest, hide nothing.
+document.querySelectorAll(".line-filter").forEach(function (bar) {
+  var list = document.querySelector(".pub-list"), chips = bar.querySelectorAll(".chip");
+  chips.forEach(function (c) {
+    c.addEventListener("click", function () {
+      var id = c.dataset.line;
+      if (id) list.dataset.filter = id; else delete list.dataset.filter;
+      chips.forEach(function (o) { o.setAttribute("aria-pressed", o === c ? "true" : "false"); });
+    });
+  });
+});
+
+// Route map on narrow screens: start scrolled to the newest years.
+document.querySelectorAll(".routemap-scroll").forEach(function (s) {
+  if (s.scrollWidth > s.clientWidth) s.scrollLeft = s.scrollWidth;
+});

@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="intro">
   <header class="home-head">
-    <h1 class="name"><span>Cláudia</span> Brito</h1>
+    <h1 class="name">Cláudia Brito</h1>
     <p class="role">{{ page.role | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
   </header>
   <div class="intro-text">
@@ -21,6 +21,11 @@ layout: default
     </figcaption>
   </figure>
 </div>
+
+<section aria-labelledby="lines">
+  <h2 id="lines">Publications by research line</h2>
+  {% include route-map.html %}
+</section>
 
 <section aria-labelledby="news">
   <h2 id="news">News</h2>

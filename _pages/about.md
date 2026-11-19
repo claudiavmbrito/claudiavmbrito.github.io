@@ -14,12 +14,8 @@ redirect_from:
   - /about.html
 ---
 
-My research is on **AI for Systems and Systems for AI**. Lately it has been moving towards:
+My research is on **AI for Systems and Systems for AI**. Lately it has been moving along four lines, after a PhD in privacy-preserving distributed machine learning:
 
-* AI for systems optimization and tuning
-* Storage optimizations for AI workloads
-* Energy consumption optimization for data-intensive workloads
-* Application-specific AI for healthcare
-{: .focus}
+{% include lines-legend.html %}
 
 {% include recruiting.html %}

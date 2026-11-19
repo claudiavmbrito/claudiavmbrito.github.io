@@ -1,0 +1,98 @@
+{%- comment -%}
+  Route map: one route per research line (_data/lines.yml), one stop per paper
+  tagged with that line in _data/publications.yml. Each paper keeps one x position
+  in its year, so a paper on two lines lines up as an interchange. Years are as
+  wide as the papers they hold. Built entirely at build time; 1 unit = 1px at full size.
+{%- endcomment -%}
+{%- assign pubs = site.data.publications -%}
+{%- assign years = pubs | map: "year" | sort -%}
+{%- assign ymin = years | first -%}
+{%- assign ymax = years | last -%}
+{%- assign pitch = 18 -%}
+{%- assign row = 40 -%}
+{%- assign top = 24 -%}
+{%- assign nlines = site.data.lines | size -%}
+{%- assign axis = nlines | minus: 1 | times: row | plus: top | plus: 22 -%}
+{%- assign h = axis | plus: 18 -%}
+{%- assign xstarts = "" | split: "" -%}
+{%- assign widths = "" | split: "" -%}
+{%- assign cx = 0 -%}
+{%- for y in (ymin..ymax) -%}
+  {%- assign n = pubs | where: "year", y | size -%}
+  {%- assign w = n | plus: 1 | times: pitch -%}
+  {%- if w < 56 %}{% assign w = 56 %}{% endif -%}
+  {%- assign xstarts = xstarts | push: cx -%}
+  {%- assign widths = widths | push: w -%}
+  {%- assign cx = cx | plus: w -%}
+{%- endfor -%}
+{%- assign mapw = cx -%}
+<figure class="routemap" style="--map-h: {{ h }}; --map-w: {{ mapw }}">
+  <div class="routemap-body">
+    <svg class="routemap-labels" viewBox="0 0 178 {{ h }}" aria-hidden="true">
+      {%- for l in site.data.lines -%}
+        {%- assign ly = forloop.index0 | times: row | plus: top %}
+      <g class="label{% if l.earlier %} earlier{% endif %}"><use href="#ln-{{ l.stroke }}" x="0" y="{{ ly | minus: 4 }}" width="22" height="8"/><text x="30" y="{{ ly | plus: 4 }}">{{ l.short }}</text></g>
+      {%- endfor %}
+    </svg>
+    <div class="routemap-scroll" tabindex="0" aria-label="Route map, scrolls sideways">
+    <svg class="routemap-map" viewBox="0 0 {{ mapw }} {{ h }}" role="img" aria-labelledby="routemap-title">
+      <title id="routemap-title">Publications by research line, {{ ymin }} to {{ ymax }}: each stop is a paper.</title>
+      <g class="grid">
+        {%- for gx in xstarts %}
+        <path d="M{{ gx }} 6V{{ axis | minus: 10 }}"/>
+        {%- endfor %}
+      </g>
+      {%- for l in site.data.lines -%}
+        {%- assign ly = forloop.index0 | times: row | plus: top -%}
+        {%- assign iy = pubs | where_exp: "p", "p.lines contains l.id" | map: "year" | sort -%}
+        {%- assign fi = iy | first | minus: ymin -%}
+        {%- if l.earlier %}{% assign la = iy | last | minus: ymin %}{% else %}{% assign la = ymax | minus: ymin %}{% endif -%}
+        {%- assign xs = xstarts[fi] | plus: 3 -%}
+        {%- assign xe = xstarts[la] | plus: widths[la] | minus: 3 %}
+      <g class="route route-{{ l.stroke }}{% if l.earlier %} earlier{% endif %}">
+        {%- if l.stroke == "double" %}
+        <path d="M{{ xs }} {{ ly | minus: 3 }}H{{ xe }}M{{ xs }} {{ ly | plus: 3 }}H{{ xe }}"/>
+        {%- else %}
+        <path d="M{{ xs }} {{ ly }}H{{ xe }}"/>
+        {%- endif %}
+        <path class="cap" d="M{{ xs }} {{ ly | minus: 7 }}V{{ ly | plus: 7 }}M{{ xe }} {{ ly | minus: 7 }}V{{ ly | plus: 7 }}"/>
+      </g>
+      {%- endfor %}
+      <g class="stops">
+      {%- assign groups = pubs | group_by: "year" -%}
+      {%- for g in groups -%}
+        {%- assign yi = g.name | minus: ymin -%}
+        {%- assign n1 = g.items | size | plus: 1 -%}
+        {%- for p in g.items -%}
+          {%- assign sx = widths[yi] | times: forloop.index | divided_by: n1 | plus: xstarts[yi] -%}
+          {%- assign ys = "" | split: "" -%}
+          {%- for id in p.lines -%}
+            {%- for l in site.data.lines -%}
+              {%- if l.id == id %}{% assign ys = ys | push: forloop.index0 %}{% endif -%}
+            {%- endfor -%}
+          {%- endfor -%}
+          {%- assign ys = ys | sort %}
+        <a href="{{ '/publications/' | relative_url }}#{{ p.title | slugify }}"><title>{{ p.title | escape }} ({{ p.abbr }}, {{ p.year }})</title>
+          {%- if ys.size > 1 -%}
+            {%- assign y1 = ys | first | times: row | plus: top | minus: 6 -%}
+            {%- assign y2 = ys | last | times: row | plus: top | plus: 6 -%}
+          <rect class="interchange" x="{{ sx | minus: 6 }}" y="{{ y1 }}" width="12" height="{{ y2 | minus: y1 }}" rx="6"/>
+          {%- endif -%}
+          {%- for i in ys -%}
+            {%- assign cl = site.data.lines[i] %}
+          <circle{% if cl.earlier %} class="earlier"{% endif %} cx="{{ sx }}" cy="{{ i | times: row | plus: top }}" r="5.5"/>
+          {%- endfor %}
+        </a>
+        {%- endfor -%}
+      {%- endfor %}
+      </g>
+      <g class="years">
+        {%- for gx in xstarts %}
+        <text x="{{ gx | plus: 4 }}" y="{{ axis | plus: 8 }}">{{ ymin | plus: forloop.index0 }}</text>
+        {%- endfor %}
+      </g>
+    </svg>
+    </div>
+  </div>
+  <figcaption>Each stop is a paper; linked stops are papers on two lines. Select one to open it in the publication list.<span class="scroll-hint"> Scroll sideways for earlier years.</span></figcaption>
+</figure>

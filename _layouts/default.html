@@ -8,7 +8,7 @@
 <a class="skip" href="#main">Skip to content</a>
 <header class="topbar">
   <div class="topbar-inner">
-    <a class="brand" href="{{ '/' | relative_url }}"><span>Cláudia</span> Brito</a>
+    <a class="brand" href="{{ '/' | relative_url }}">{% include mark.html %}Cláudia Brito</a>
     {%- capture nav_items -%}
       {%- for item in site.data.navigation.main -%}
         <li><a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
@@ -24,6 +24,14 @@
     <button class="theme" type="button" aria-label="Toggle dark mode">{% include icon.html name="circle-half-stroke" %}</button>
   </div>
 </header>
+<div class="band" role="note" aria-label="Record at a glance">
+  <ul class="wrap">
+    <li><a href="{{ '/publications/' | relative_url }}"><b>{{ site.data.publications | size }}</b> publications</a></li>
+    <li><a href="{{ '/supervision/' | relative_url }}"><b>{{ site.data.stats.phd }}</b> PhD and <b>{{ site.data.stats.msc }}</b> MSc students</a></li>
+    <li><a href="{{ '/projects/' | relative_url }}"><b>{{ site.data.stats.projects }}</b> projects</a></li>
+    <li class="updated">Updated <b>{{ site.time | date: '%b %Y' }}</b></li>
+  </ul>
+</div>
 <main id="main" class="wrap">
 {{ content }}
 </main>

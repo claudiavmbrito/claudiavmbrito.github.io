@@ -1,0 +1,5 @@
+# Counts shown in the band under the top bar. Publications are counted from
+# _data/publications.yml; update these by hand when they change.
+phd: 4
+msc: 31
+projects: 16
